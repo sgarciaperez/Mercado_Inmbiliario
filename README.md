@@ -1,6 +1,6 @@
 # Mercado_Inmbiliario
 En este proyecto se ha generado una visualización con Tableau que permite la búsqueda guiada de pisos en la 
-ciudad de Barcelona. Su objetivo es ayudar a aquellas personans que tienen intención de iniciar una búsqueda de vivienda
+ciudad de Barcelona. Su objetivo es ayudar a aquellas personas que tienen intención de iniciar una búsqueda de vivienda
 y desconocen el mercado inmobiliario.
 
 En este proyecto se incluye: 
