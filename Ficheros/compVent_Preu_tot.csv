@@ -1,0 +1,1967 @@
+"Any","Trimestre","Codi_Districte","Nom_Districte","Codi_Barri","Nom_Barri","Valor"
+"2019","1","1","Ciutat Vella","1","el Raval",236
+"2019","1","1","Ciutat Vella","2","el Barri Gòtic",411
+"2019","1","1","Ciutat Vella","3","la Barceloneta",215
+"2019","1","1","Ciutat Vella","4","Sant Pere, Santa Caterina i la Ribera",306
+"2019","1","2","Eixample","5","el Fort Pienc",582
+"2019","1","2","Eixample","6","la Sagrada Família",297
+"2019","1","2","Eixample","7","la Dreta de l'Eixample",475
+"2019","1","2","Eixample","8","l'Antiga Esquerra de l'Eixample",396
+"2019","1","2","Eixample","9","la Nova Esquerra de l'Eixample",342
+"2019","1","2","Eixample","10","Sant Antoni",356
+"2019","1","3","Sants-Montjuïc","11","el Poble Sec",324
+"2019","1","3","Sants-Montjuïc","13","la Marina de Port",191
+"2019","1","3","Sants-Montjuïc","14","la Font de la Guatlla",247
+"2019","1","3","Sants-Montjuïc","15","Hostafrancs",210
+"2019","1","3","Sants-Montjuïc","16","la Bordeta",188
+"2019","1","3","Sants-Montjuïc","17","Sants - Badal",248
+"2019","1","3","Sants-Montjuïc","18","Sants",290
+"2019","1","4","Les Corts","19","les Corts",411
+"2019","1","4","Les Corts","20","la Maternitat i Sant Ramon",410
+"2019","1","4","Les Corts","21","Pedralbes",1011
+"2019","1","5","Sarrià-Sant Gervasi","22","Vallvidrera, el Tibidabo i les Planes",380
+"2019","1","5","Sarrià-Sant Gervasi","23","Sarrià",734
+"2019","1","5","Sarrià-Sant Gervasi","24","les Tres Torres",853
+"2019","1","5","Sarrià-Sant Gervasi","25","Sant Gervasi - la Bonanova",747
+"2019","1","5","Sarrià-Sant Gervasi","26","Sant Gervasi - Galvany",637
+"2019","1","5","Sarrià-Sant Gervasi","27","el Putxet i el Farró",448
+"2019","1","6","Gràcia","28","Vallcarca i els Penitents",273
+"2019","1","6","Gràcia","29","el Coll",194
+"2019","1","6","Gràcia","30","la Salut",379
+"2019","1","6","Gràcia","31","la Vila de Gràcia",468
+"2019","1","6","Gràcia","32","el Camp d'en Grassot i Gràcia Nova",340
+"2019","1","7","Horta-Guinardó","33","el Baix Guinardó",280
+"2019","1","7","Horta-Guinardó","34","Can Baró",252
+"2019","1","7","Horta-Guinardó","35","el Guinardó",262
+"2019","1","7","Horta-Guinardó","36","la Font d'en Fargues",202
+"2019","1","7","Horta-Guinardó","37","el Carmel",255
+"2019","1","7","Horta-Guinardó","38","la Teixonera",147
+"2019","1","7","Horta-Guinardó","39","Sant Genís dels Agudells",170
+"2019","1","7","Horta-Guinardó","40","Montbau",159
+"2019","1","7","Horta-Guinardó","41","la Vall d'Hebron",222
+"2019","1","7","Horta-Guinardó","42","la Clota",170
+"2019","1","7","Horta-Guinardó","43","Horta",266
+"2019","1","8","Nou Barris","44","Vilapicina i la Torre Llobeta",229
+"2019","1","8","Nou Barris","45","Porta",179
+"2019","1","8","Nou Barris","46","el Turó de la Peira",145
+"2019","1","8","Nou Barris","48","la Guineueta",194
+"2019","1","8","Nou Barris","49","Canyelles",150
+"2019","1","8","Nou Barris","50","les Roquetes",156
+"2019","1","8","Nou Barris","51","Verdun",148
+"2019","1","8","Nou Barris","52","la Prosperitat",150
+"2019","1","8","Nou Barris","53","la Trinitat Nova",80
+"2019","1","8","Nou Barris","55","Ciutat Meridiana",95
+"2019","1","9","Sant Andreu","57","la Trinitat Vella",154
+"2019","1","9","Sant Andreu","59","el Bon Pastor",146
+"2019","1","9","Sant Andreu","60","Sant Andreu",251
+"2019","1","9","Sant Andreu","61","la Sagrera",240
+"2019","1","9","Sant Andreu","62","el Congrés i els Indians",251
+"2019","1","9","Sant Andreu","63","Navas",379
+"2019","1","10","Sant Martí","64","el Camp de l'Arpa del Clot",319
+"2019","1","10","Sant Martí","65","el Clot",342
+"2019","1","10","Sant Martí","66","el Parc i la Llacuna del Poblenou",259
+"2019","1","10","Sant Martí","67","la Vila Olímpica del Poblenou",538
+"2019","1","10","Sant Martí","68","el Poblenou",399
+"2019","1","10","Sant Martí","69","Diagonal Mar i el Front Marítim del Poblenou",486
+"2019","1","10","Sant Martí","70","el Besòs i el Maresme",303
+"2019","1","10","Sant Martí","71","Provençals del Poblenou",369
+"2019","1","10","Sant Martí","72","Sant Martí de Provençals",299
+"2019","1","10","Sant Martí","73","la Verneda i la Pau",167
+"2019","1","1","Ciutat Vella","1","el Raval",379
+"2019","1","1","Ciutat Vella","2","el Barri Gòtic",556
+"2019","1","1","Ciutat Vella","4","Sant Pere, Santa Caterina i la Ribera",520
+"2019","1","2","Eixample","5","el Fort Pienc",4687
+"2019","1","2","Eixample","7","la Dreta de l'Eixample",424
+"2019","1","2","Eixample","8","l'Antiga Esquerra de l'Eixample",283
+"2019","1","3","Sants-Montjuïc","15","Hostafrancs",191
+"2019","1","4","Les Corts","19","les Corts",522
+"2019","1","5","Sarrià-Sant Gervasi","25","Sant Gervasi - la Bonanova",416
+"2019","1","5","Sarrià-Sant Gervasi","26","Sant Gervasi - Galvany",862
+"2019","1","5","Sarrià-Sant Gervasi","27","el Putxet i el Farró",431
+"2019","1","6","Gràcia","28","Vallcarca i els Penitents",205
+"2019","1","6","Gràcia","29","el Coll",108
+"2019","1","6","Gràcia","31","la Vila de Gràcia",437
+"2019","1","7","Horta-Guinardó","37","el Carmel",319
+"2019","1","7","Horta-Guinardó","38","la Teixonera",136
+"2019","1","7","Horta-Guinardó","42","la Clota",170
+"2019","1","7","Horta-Guinardó","43","Horta",261
+"2019","1","9","Sant Andreu","60","Sant Andreu",325
+"2019","1","10","Sant Martí","64","el Camp de l'Arpa del Clot",446
+"2019","1","10","Sant Martí","65","el Clot",278
+"2019","1","10","Sant Martí","68","el Poblenou",504
+"2019","1","10","Sant Martí","70","el Besòs i el Maresme",438
+"2019","1","10","Sant Martí","72","Sant Martí de Provençals",296
+"2019","1","10","Sant Martí","73","la Verneda i la Pau",162
+"2019","1","1","Ciutat Vella","1","el Raval",228
+"2019","1","1","Ciutat Vella","2","el Barri Gòtic",341
+"2019","1","1","Ciutat Vella","3","la Barceloneta",222
+"2019","1","1","Ciutat Vella","4","Sant Pere, Santa Caterina i la Ribera",293
+"2019","1","2","Eixample","5","el Fort Pienc",391
+"2019","1","2","Eixample","6","la Sagrada Família",297
+"2019","1","2","Eixample","7","la Dreta de l'Eixample",492
+"2019","1","2","Eixample","8","l'Antiga Esquerra de l'Eixample",407
+"2019","1","2","Eixample","9","la Nova Esquerra de l'Eixample",349
+"2019","1","2","Eixample","10","Sant Antoni",356
+"2019","1","3","Sants-Montjuïc","11","el Poble Sec",324
+"2019","1","3","Sants-Montjuïc","13","la Marina de Port",197
+"2019","1","3","Sants-Montjuïc","14","la Font de la Guatlla",247
+"2019","1","3","Sants-Montjuïc","15","Hostafrancs",214
+"2019","1","3","Sants-Montjuïc","16","la Bordeta",188
+"2019","1","3","Sants-Montjuïc","17","Sants - Badal",239
+"2019","1","3","Sants-Montjuïc","18","Sants",290
+"2019","1","4","Les Corts","19","les Corts",397
+"2019","1","4","Les Corts","20","la Maternitat i Sant Ramon",410
+"2019","1","4","Les Corts","21","Pedralbes",1016
+"2019","1","5","Sarrià-Sant Gervasi","22","Vallvidrera, el Tibidabo i les Planes",380
+"2019","1","5","Sarrià-Sant Gervasi","23","Sarrià",747
+"2019","1","5","Sarrià-Sant Gervasi","24","les Tres Torres",853
+"2019","1","5","Sarrià-Sant Gervasi","25","Sant Gervasi - la Bonanova",794
+"2019","1","5","Sarrià-Sant Gervasi","26","Sant Gervasi - Galvany",553
+"2019","1","5","Sarrià-Sant Gervasi","27","el Putxet i el Farró",452
+"2019","1","6","Gràcia","28","Vallcarca i els Penitents",289
+"2019","1","6","Gràcia","29","el Coll",228
+"2019","1","6","Gràcia","30","la Salut",379
+"2019","1","6","Gràcia","31","la Vila de Gràcia",470
+"2019","1","6","Gràcia","32","el Camp d'en Grassot i Gràcia Nova",340
+"2019","1","7","Horta-Guinardó","33","el Baix Guinardó",280
+"2019","1","7","Horta-Guinardó","34","Can Baró",252
+"2019","1","7","Horta-Guinardó","35","el Guinardó",262
+"2019","1","7","Horta-Guinardó","36","la Font d'en Fargues",205
+"2019","1","7","Horta-Guinardó","37","el Carmel",232
+"2019","1","7","Horta-Guinardó","38","la Teixonera",153
+"2019","1","7","Horta-Guinardó","39","Sant Genís dels Agudells",170
+"2019","1","7","Horta-Guinardó","40","Montbau",167
+"2019","1","7","Horta-Guinardó","41","la Vall d'Hebron",222
+"2019","1","7","Horta-Guinardó","43","Horta",268
+"2019","1","8","Nou Barris","44","Vilapicina i la Torre Llobeta",229
+"2019","1","8","Nou Barris","45","Porta",179
+"2019","1","8","Nou Barris","46","el Turó de la Peira",147
+"2019","1","8","Nou Barris","48","la Guineueta",194
+"2019","1","8","Nou Barris","49","Canyelles",150
+"2019","1","8","Nou Barris","50","les Roquetes",156
+"2019","1","8","Nou Barris","51","Verdun",148
+"2019","1","8","Nou Barris","52","la Prosperitat",150
+"2019","1","8","Nou Barris","53","la Trinitat Nova",80
+"2019","1","8","Nou Barris","55","Ciutat Meridiana",95
+"2019","1","9","Sant Andreu","57","la Trinitat Vella",154
+"2019","1","9","Sant Andreu","59","el Bon Pastor",148
+"2019","1","9","Sant Andreu","60","Sant Andreu",213
+"2019","1","9","Sant Andreu","61","la Sagrera",240
+"2019","1","9","Sant Andreu","62","el Congrés i els Indians",256
+"2019","1","9","Sant Andreu","63","Navas",379
+"2019","1","10","Sant Martí","64","el Camp de l'Arpa del Clot",311
+"2019","1","10","Sant Martí","65","el Clot",343
+"2019","1","10","Sant Martí","66","el Parc i la Llacuna del Poblenou",259
+"2019","1","10","Sant Martí","67","la Vila Olímpica del Poblenou",538
+"2019","1","10","Sant Martí","68","el Poblenou",363
+"2019","1","10","Sant Martí","69","Diagonal Mar i el Front Marítim del Poblenou",486
+"2019","1","10","Sant Martí","70","el Besòs i el Maresme",238
+"2019","1","10","Sant Martí","71","Provençals del Poblenou",389
+"2019","1","10","Sant Martí","72","Sant Martí de Provençals",302
+"2019","1","10","Sant Martí","73","la Verneda i la Pau",167
+"2019","2","1","Ciutat Vella","1","el Raval",208
+"2019","2","1","Ciutat Vella","2","el Barri Gòtic",434
+"2019","2","1","Ciutat Vella","3","la Barceloneta",218
+"2019","2","1","Ciutat Vella","4","Sant Pere, Santa Caterina i la Ribera",266
+"2019","2","2","Eixample","5","el Fort Pienc",845
+"2019","2","2","Eixample","6","la Sagrada Família",255
+"2019","2","2","Eixample","7","la Dreta de l'Eixample",584
+"2019","2","2","Eixample","8","l'Antiga Esquerra de l'Eixample",492
+"2019","2","2","Eixample","9","la Nova Esquerra de l'Eixample",293
+"2019","2","2","Eixample","10","Sant Antoni",310
+"2019","2","3","Sants-Montjuïc","11","el Poble Sec",269
+"2019","2","3","Sants-Montjuïc","13","la Marina de Port",182
+"2019","2","3","Sants-Montjuïc","14","la Font de la Guatlla",385
+"2019","2","3","Sants-Montjuïc","15","Hostafrancs",422
+"2019","2","3","Sants-Montjuïc","16","la Bordeta",200
+"2019","2","3","Sants-Montjuïc","17","Sants - Badal",245
+"2019","2","3","Sants-Montjuïc","18","Sants",273
+"2019","2","4","Les Corts","19","les Corts",433
+"2019","2","4","Les Corts","20","la Maternitat i Sant Ramon",357
+"2019","2","4","Les Corts","21","Pedralbes",1018
+"2019","2","5","Sarrià-Sant Gervasi","22","Vallvidrera, el Tibidabo i les Planes",543
+"2019","2","5","Sarrià-Sant Gervasi","23","Sarrià",859
+"2019","2","5","Sarrià-Sant Gervasi","24","les Tres Torres",743
+"2019","2","5","Sarrià-Sant Gervasi","25","Sant Gervasi - la Bonanova",645
+"2019","2","5","Sarrià-Sant Gervasi","26","Sant Gervasi - Galvany",716
+"2019","2","5","Sarrià-Sant Gervasi","27","el Putxet i el Farró",473
+"2019","2","6","Gràcia","28","Vallcarca i els Penitents",313
+"2019","2","6","Gràcia","29","el Coll",153
+"2019","2","6","Gràcia","30","la Salut",366
+"2019","2","6","Gràcia","31","la Vila de Gràcia",380
+"2019","2","6","Gràcia","32","el Camp d'en Grassot i Gràcia Nova",384
+"2019","2","7","Horta-Guinardó","33","el Baix Guinardó",274
+"2019","2","7","Horta-Guinardó","34","Can Baró",208
+"2019","2","7","Horta-Guinardó","35","el Guinardó",243
+"2019","2","7","Horta-Guinardó","36","la Font d'en Fargues",286
+"2019","2","7","Horta-Guinardó","37","el Carmel",173
+"2019","2","7","Horta-Guinardó","38","la Teixonera",147
+"2019","2","7","Horta-Guinardó","39","Sant Genís dels Agudells",172
+"2019","2","7","Horta-Guinardó","40","Montbau",159
+"2019","2","7","Horta-Guinardó","41","la Vall d'Hebron",242
+"2019","2","7","Horta-Guinardó","43","Horta",206
+"2019","2","8","Nou Barris","44","Vilapicina i la Torre Llobeta",182
+"2019","2","8","Nou Barris","45","Porta",169
+"2019","2","8","Nou Barris","46","el Turó de la Peira",137
+"2019","2","8","Nou Barris","48","la Guineueta",198
+"2019","2","8","Nou Barris","49","Canyelles",190
+"2019","2","8","Nou Barris","50","les Roquetes",120
+"2019","2","8","Nou Barris","51","Verdun",127
+"2019","2","8","Nou Barris","52","la Prosperitat",124
+"2019","2","8","Nou Barris","53","la Trinitat Nova",90
+"2019","2","8","Nou Barris","55","Ciutat Meridiana",90
+"2019","2","8","Nou Barris","56","Vallbona",99
+"2019","2","9","Sant Andreu","57","la Trinitat Vella",237
+"2019","2","9","Sant Andreu","59","el Bon Pastor",145
+"2019","2","9","Sant Andreu","60","Sant Andreu",244
+"2019","2","9","Sant Andreu","61","la Sagrera",293
+"2019","2","9","Sant Andreu","62","el Congrés i els Indians",217
+"2019","2","9","Sant Andreu","63","Navas",371
+"2019","2","10","Sant Martí","64","el Camp de l'Arpa del Clot",323
+"2019","2","10","Sant Martí","65","el Clot",379
+"2019","2","10","Sant Martí","66","el Parc i la Llacuna del Poblenou",280
+"2019","2","10","Sant Martí","67","la Vila Olímpica del Poblenou",553
+"2019","2","10","Sant Martí","68","el Poblenou",306
+"2019","2","10","Sant Martí","69","Diagonal Mar i el Front Marítim del Poblenou",806
+"2019","2","10","Sant Martí","70","el Besòs i el Maresme",375
+"2019","2","10","Sant Martí","71","Provençals del Poblenou",324
+"2019","2","10","Sant Martí","72","Sant Martí de Provençals",261
+"2019","2","10","Sant Martí","73","la Verneda i la Pau",168
+"2019","2","1","Ciutat Vella","1","el Raval",338
+"2019","2","1","Ciutat Vella","2","el Barri Gòtic",617
+"2019","2","1","Ciutat Vella","4","Sant Pere, Santa Caterina i la Ribera",401
+"2019","2","2","Eixample","5","el Fort Pienc",2039
+"2019","2","2","Eixample","7","la Dreta de l'Eixample",805
+"2019","2","2","Eixample","9","la Nova Esquerra de l'Eixample",247
+"2019","2","3","Sants-Montjuïc","11","el Poble Sec",176
+"2019","2","4","Les Corts","19","les Corts",575
+"2019","2","5","Sarrià-Sant Gervasi","25","Sant Gervasi - la Bonanova",719
+"2019","2","5","Sarrià-Sant Gervasi","26","Sant Gervasi - Galvany",531
+"2019","2","5","Sarrià-Sant Gervasi","27","el Putxet i el Farró",307
+"2019","2","6","Gràcia","28","Vallcarca i els Penitents",290
+"2019","2","6","Gràcia","31","la Vila de Gràcia",285
+"2019","2","7","Horta-Guinardó","35","el Guinardó",320
+"2019","2","7","Horta-Guinardó","37","el Carmel",234
+"2019","2","7","Horta-Guinardó","38","la Teixonera",172
+"2019","2","7","Horta-Guinardó","39","Sant Genís dels Agudells",195
+"2019","2","7","Horta-Guinardó","40","Montbau",165
+"2019","2","7","Horta-Guinardó","41","la Vall d'Hebron",191
+"2019","2","7","Horta-Guinardó","43","Horta",200
+"2019","2","9","Sant Andreu","60","Sant Andreu",325
+"2019","2","10","Sant Martí","64","el Camp de l'Arpa del Clot",411
+"2019","2","10","Sant Martí","65","el Clot",301
+"2019","2","10","Sant Martí","70","el Besòs i el Maresme",480
+"2019","2","1","Ciutat Vella","1","el Raval",202
+"2019","2","1","Ciutat Vella","2","el Barri Gòtic",394
+"2019","2","1","Ciutat Vella","3","la Barceloneta",221
+"2019","2","1","Ciutat Vella","4","Sant Pere, Santa Caterina i la Ribera",248
+"2019","2","2","Eixample","5","el Fort Pienc",520
+"2019","2","2","Eixample","6","la Sagrada Família",255
+"2019","2","2","Eixample","7","la Dreta de l'Eixample",568
+"2019","2","2","Eixample","8","l'Antiga Esquerra de l'Eixample",492
+"2019","2","2","Eixample","9","la Nova Esquerra de l'Eixample",299
+"2019","2","2","Eixample","10","Sant Antoni",310
+"2019","2","3","Sants-Montjuïc","11","el Poble Sec",285
+"2019","2","3","Sants-Montjuïc","13","la Marina de Port",182
+"2019","2","3","Sants-Montjuïc","14","la Font de la Guatlla",385
+"2019","2","3","Sants-Montjuïc","15","Hostafrancs",366
+"2019","2","3","Sants-Montjuïc","16","la Bordeta",200
+"2019","2","3","Sants-Montjuïc","17","Sants - Badal",245
+"2019","2","3","Sants-Montjuïc","18","Sants",273
+"2019","2","4","Les Corts","19","les Corts",416
+"2019","2","4","Les Corts","20","la Maternitat i Sant Ramon",357
+"2019","2","4","Les Corts","21","Pedralbes",1000
+"2019","2","5","Sarrià-Sant Gervasi","22","Vallvidrera, el Tibidabo i les Planes",543
+"2019","2","5","Sarrià-Sant Gervasi","23","Sarrià",860
+"2019","2","5","Sarrià-Sant Gervasi","24","les Tres Torres",743
+"2019","2","5","Sarrià-Sant Gervasi","25","Sant Gervasi - la Bonanova",621
+"2019","2","5","Sarrià-Sant Gervasi","26","Sant Gervasi - Galvany",762
+"2019","2","5","Sarrià-Sant Gervasi","27","el Putxet i el Farró",479
+"2019","2","6","Gràcia","28","Vallcarca i els Penitents",316
+"2019","2","6","Gràcia","29","el Coll",130
+"2019","2","6","Gràcia","30","la Salut",362
+"2019","2","6","Gràcia","31","la Vila de Gràcia",386
+"2019","2","6","Gràcia","32","el Camp d'en Grassot i Gràcia Nova",384
+"2019","2","7","Horta-Guinardó","33","el Baix Guinardó",274
+"2019","2","7","Horta-Guinardó","34","Can Baró",208
+"2019","2","7","Horta-Guinardó","35","el Guinardó",238
+"2019","2","7","Horta-Guinardó","36","la Font d'en Fargues",291
+"2019","2","7","Horta-Guinardó","37","el Carmel",149
+"2019","2","7","Horta-Guinardó","38","la Teixonera",142
+"2019","2","7","Horta-Guinardó","39","Sant Genís dels Agudells",156
+"2019","2","7","Horta-Guinardó","40","Montbau",157
+"2019","2","7","Horta-Guinardó","41","la Vall d'Hebron",273
+"2019","2","7","Horta-Guinardó","43","Horta",207
+"2019","2","8","Nou Barris","44","Vilapicina i la Torre Llobeta",182
+"2019","2","8","Nou Barris","45","Porta",169
+"2019","2","8","Nou Barris","46","el Turó de la Peira",137
+"2019","2","8","Nou Barris","48","la Guineueta",204
+"2019","2","8","Nou Barris","49","Canyelles",190
+"2019","2","8","Nou Barris","50","les Roquetes",120
+"2019","2","8","Nou Barris","51","Verdun",127
+"2019","2","8","Nou Barris","52","la Prosperitat",124
+"2019","2","8","Nou Barris","53","la Trinitat Nova",90
+"2019","2","8","Nou Barris","55","Ciutat Meridiana",90
+"2019","2","8","Nou Barris","56","Vallbona",99
+"2019","2","9","Sant Andreu","57","la Trinitat Vella",237
+"2019","2","9","Sant Andreu","59","el Bon Pastor",146
+"2019","2","9","Sant Andreu","60","Sant Andreu",210
+"2019","2","9","Sant Andreu","61","la Sagrera",293
+"2019","2","9","Sant Andreu","62","el Congrés i els Indians",217
+"2019","2","9","Sant Andreu","63","Navas",371
+"2019","2","10","Sant Martí","64","el Camp de l'Arpa del Clot",309
+"2019","2","10","Sant Martí","65","el Clot",383
+"2019","2","10","Sant Martí","66","el Parc i la Llacuna del Poblenou",280
+"2019","2","10","Sant Martí","67","la Vila Olímpica del Poblenou",553
+"2019","2","10","Sant Martí","68","el Poblenou",288
+"2019","2","10","Sant Martí","69","Diagonal Mar i el Front Marítim del Poblenou",806
+"2019","2","10","Sant Martí","70","el Besòs i el Maresme",234
+"2019","2","10","Sant Martí","71","Provençals del Poblenou",334
+"2019","2","10","Sant Martí","72","Sant Martí de Provençals",257
+"2019","2","10","Sant Martí","73","la Verneda i la Pau",169
+"2019","3","1","Ciutat Vella","1","el Raval",190
+"2019","3","1","Ciutat Vella","2","el Barri Gòtic",375
+"2019","3","1","Ciutat Vella","3","la Barceloneta",195
+"2019","3","1","Ciutat Vella","4","Sant Pere, Santa Caterina i la Ribera",335
+"2019","3","2","Eixample","5","el Fort Pienc",320
+"2019","3","2","Eixample","6","la Sagrada Família",276
+"2019","3","2","Eixample","7","la Dreta de l'Eixample",573
+"2019","3","2","Eixample","8","l'Antiga Esquerra de l'Eixample",436
+"2019","3","2","Eixample","9","la Nova Esquerra de l'Eixample",342
+"2019","3","2","Eixample","10","Sant Antoni",354
+"2019","3","3","Sants-Montjuïc","11","el Poble Sec",231
+"2019","3","3","Sants-Montjuïc","12","la Marina del Prat Vermell",121
+"2019","3","3","Sants-Montjuïc","13","la Marina de Port",196
+"2019","3","3","Sants-Montjuïc","14","la Font de la Guatlla",258
+"2019","3","3","Sants-Montjuïc","15","Hostafrancs",394
+"2019","3","3","Sants-Montjuïc","16","la Bordeta",216
+"2019","3","3","Sants-Montjuïc","17","Sants - Badal",241
+"2019","3","3","Sants-Montjuïc","18","Sants",250
+"2019","3","4","Les Corts","19","les Corts",355
+"2019","3","4","Les Corts","20","la Maternitat i Sant Ramon",384
+"2019","3","4","Les Corts","21","Pedralbes",899
+"2019","3","5","Sarrià-Sant Gervasi","22","Vallvidrera, el Tibidabo i les Planes",373
+"2019","3","5","Sarrià-Sant Gervasi","23","Sarrià",693
+"2019","3","5","Sarrià-Sant Gervasi","24","les Tres Torres",722
+"2019","3","5","Sarrià-Sant Gervasi","25","Sant Gervasi - la Bonanova",701
+"2019","3","5","Sarrià-Sant Gervasi","26","Sant Gervasi - Galvany",655
+"2019","3","5","Sarrià-Sant Gervasi","27","el Putxet i el Farró",505
+"2019","3","6","Gràcia","28","Vallcarca i els Penitents",375
+"2019","3","6","Gràcia","29","el Coll",213
+"2019","3","6","Gràcia","30","la Salut",358
+"2019","3","6","Gràcia","31","la Vila de Gràcia",378
+"2019","3","6","Gràcia","32","el Camp d'en Grassot i Gràcia Nova",321
+"2019","3","7","Horta-Guinardó","33","el Baix Guinardó",338
+"2019","3","7","Horta-Guinardó","34","Can Baró",175
+"2019","3","7","Horta-Guinardó","35","el Guinardó",243
+"2019","3","7","Horta-Guinardó","36","la Font d'en Fargues",239
+"2019","3","7","Horta-Guinardó","37","el Carmel",151
+"2019","3","7","Horta-Guinardó","38","la Teixonera",155
+"2019","3","7","Horta-Guinardó","39","Sant Genís dels Agudells",151
+"2019","3","7","Horta-Guinardó","40","Montbau",188
+"2019","3","7","Horta-Guinardó","41","la Vall d'Hebron",170
+"2019","3","7","Horta-Guinardó","43","Horta",230
+"2019","3","8","Nou Barris","44","Vilapicina i la Torre Llobeta",212
+"2019","3","8","Nou Barris","45","Porta",188
+"2019","3","8","Nou Barris","46","el Turó de la Peira",139
+"2019","3","8","Nou Barris","48","la Guineueta",257
+"2019","3","8","Nou Barris","49","Canyelles",170
+"2019","3","8","Nou Barris","50","les Roquetes",223
+"2019","3","8","Nou Barris","51","Verdun",133
+"2019","3","8","Nou Barris","52","la Prosperitat",151
+"2019","3","8","Nou Barris","53","la Trinitat Nova",91
+"2019","3","8","Nou Barris","54","Torre Baró",151
+"2019","3","8","Nou Barris","55","Ciutat Meridiana",71
+"2019","3","9","Sant Andreu","57","la Trinitat Vella",317
+"2019","3","9","Sant Andreu","59","el Bon Pastor",189
+"2019","3","9","Sant Andreu","60","Sant Andreu",269
+"2019","3","9","Sant Andreu","61","la Sagrera",271
+"2019","3","9","Sant Andreu","62","el Congrés i els Indians",241
+"2019","3","9","Sant Andreu","63","Navas",443
+"2019","3","10","Sant Martí","64","el Camp de l'Arpa del Clot",338
+"2019","3","10","Sant Martí","65","el Clot",322
+"2019","3","10","Sant Martí","66","el Parc i la Llacuna del Poblenou",208
+"2019","3","10","Sant Martí","68","el Poblenou",342
+"2019","3","10","Sant Martí","69","Diagonal Mar i el Front Marítim del Poblenou",551
+"2019","3","10","Sant Martí","70","el Besòs i el Maresme",307
+"2019","3","10","Sant Martí","71","Provençals del Poblenou",497
+"2019","3","10","Sant Martí","72","Sant Martí de Provençals",354
+"2019","3","10","Sant Martí","73","la Verneda i la Pau",179
+"2019","3","1","Ciutat Vella","2","el Barri Gòtic",348
+"2019","3","1","Ciutat Vella","4","Sant Pere, Santa Caterina i la Ribera",403
+"2019","3","2","Eixample","7","la Dreta de l'Eixample",1095
+"2019","3","2","Eixample","8","l'Antiga Esquerra de l'Eixample",291
+"2019","3","3","Sants-Montjuïc","15","Hostafrancs",383
+"2019","3","4","Les Corts","19","les Corts",1176
+"2019","3","5","Sarrià-Sant Gervasi","25","Sant Gervasi - la Bonanova",793
+"2019","3","5","Sarrià-Sant Gervasi","26","Sant Gervasi - Galvany",523
+"2019","3","5","Sarrià-Sant Gervasi","27","el Putxet i el Farró",570
+"2019","3","6","Gràcia","30","la Salut",597
+"2019","3","6","Gràcia","31","la Vila de Gràcia",397
+"2019","3","7","Horta-Guinardó","35","el Guinardó",256
+"2019","3","7","Horta-Guinardó","37","el Carmel",171
+"2019","3","7","Horta-Guinardó","38","la Teixonera",108
+"2019","3","7","Horta-Guinardó","39","Sant Genís dels Agudells",231
+"2019","3","7","Horta-Guinardó","40","Montbau",146
+"2019","3","7","Horta-Guinardó","41","la Vall d'Hebron",216
+"2019","3","7","Horta-Guinardó","43","Horta",285
+"2019","3","8","Nou Barris","48","la Guineueta",342
+"2019","3","9","Sant Andreu","60","Sant Andreu",406
+"2019","3","10","Sant Martí","64","el Camp de l'Arpa del Clot",527
+"2019","3","10","Sant Martí","68","el Poblenou",602
+"2019","3","10","Sant Martí","70","el Besòs i el Maresme",461
+"2019","3","10","Sant Martí","73","la Verneda i la Pau",159
+"2019","3","1","Ciutat Vella","1","el Raval",190
+"2019","3","1","Ciutat Vella","2","el Barri Gòtic",386
+"2019","3","1","Ciutat Vella","3","la Barceloneta",197
+"2019","3","1","Ciutat Vella","4","Sant Pere, Santa Caterina i la Ribera",332
+"2019","3","2","Eixample","5","el Fort Pienc",320
+"2019","3","2","Eixample","6","la Sagrada Família",276
+"2019","3","2","Eixample","7","la Dreta de l'Eixample",543
+"2019","3","2","Eixample","8","l'Antiga Esquerra de l'Eixample",456
+"2019","3","2","Eixample","9","la Nova Esquerra de l'Eixample",348
+"2019","3","2","Eixample","10","Sant Antoni",373
+"2019","3","3","Sants-Montjuïc","11","el Poble Sec",230
+"2019","3","3","Sants-Montjuïc","12","la Marina del Prat Vermell",121
+"2019","3","3","Sants-Montjuïc","13","la Marina de Port",196
+"2019","3","3","Sants-Montjuïc","14","la Font de la Guatlla",256
+"2019","3","3","Sants-Montjuïc","15","Hostafrancs",395
+"2019","3","3","Sants-Montjuïc","16","la Bordeta",216
+"2019","3","3","Sants-Montjuïc","17","Sants - Badal",241
+"2019","3","3","Sants-Montjuïc","18","Sants",250
+"2019","3","4","Les Corts","19","les Corts",342
+"2019","3","4","Les Corts","20","la Maternitat i Sant Ramon",384
+"2019","3","4","Les Corts","21","Pedralbes",899
+"2019","3","5","Sarrià-Sant Gervasi","22","Vallvidrera, el Tibidabo i les Planes",373
+"2019","3","5","Sarrià-Sant Gervasi","23","Sarrià",703
+"2019","3","5","Sarrià-Sant Gervasi","24","les Tres Torres",722
+"2019","3","5","Sarrià-Sant Gervasi","25","Sant Gervasi - la Bonanova",683
+"2019","3","5","Sarrià-Sant Gervasi","26","Sant Gervasi - Galvany",687
+"2019","3","5","Sarrià-Sant Gervasi","27","el Putxet i el Farró",496
+"2019","3","6","Gràcia","28","Vallcarca i els Penitents",380
+"2019","3","6","Gràcia","29","el Coll",217
+"2019","3","6","Gràcia","30","la Salut",334
+"2019","3","6","Gràcia","31","la Vila de Gràcia",373
+"2019","3","6","Gràcia","32","el Camp d'en Grassot i Gràcia Nova",321
+"2019","3","7","Horta-Guinardó","33","el Baix Guinardó",338
+"2019","3","7","Horta-Guinardó","34","Can Baró",175
+"2019","3","7","Horta-Guinardó","35","el Guinardó",241
+"2019","3","7","Horta-Guinardó","36","la Font d'en Fargues",239
+"2019","3","7","Horta-Guinardó","37","el Carmel",141
+"2019","3","7","Horta-Guinardó","38","la Teixonera",174
+"2019","3","7","Horta-Guinardó","39","Sant Genís dels Agudells",110
+"2019","3","7","Horta-Guinardó","40","Montbau",208
+"2019","3","7","Horta-Guinardó","43","Horta",216
+"2019","3","8","Nou Barris","44","Vilapicina i la Torre Llobeta",212
+"2019","3","8","Nou Barris","45","Porta",184
+"2019","3","8","Nou Barris","46","el Turó de la Peira",139
+"2019","3","8","Nou Barris","48","la Guineueta",225
+"2019","3","8","Nou Barris","49","Canyelles",170
+"2019","3","8","Nou Barris","50","les Roquetes",223
+"2019","3","8","Nou Barris","51","Verdun",133
+"2019","3","8","Nou Barris","52","la Prosperitat",151
+"2019","3","8","Nou Barris","53","la Trinitat Nova",91
+"2019","3","8","Nou Barris","54","Torre Baró",151
+"2019","3","8","Nou Barris","55","Ciutat Meridiana",71
+"2019","3","9","Sant Andreu","57","la Trinitat Vella",317
+"2019","3","9","Sant Andreu","59","el Bon Pastor",189
+"2019","3","9","Sant Andreu","60","Sant Andreu",254
+"2019","3","9","Sant Andreu","61","la Sagrera",271
+"2019","3","9","Sant Andreu","62","el Congrés i els Indians",241
+"2019","3","9","Sant Andreu","63","Navas",444
+"2019","3","10","Sant Martí","64","el Camp de l'Arpa del Clot",323
+"2019","3","10","Sant Martí","65","el Clot",322
+"2019","3","10","Sant Martí","66","el Parc i la Llacuna del Poblenou",208
+"2019","3","10","Sant Martí","68","el Poblenou",313
+"2019","3","10","Sant Martí","69","Diagonal Mar i el Front Marítim del Poblenou",551
+"2019","3","10","Sant Martí","70","el Besòs i el Maresme",204
+"2019","3","10","Sant Martí","71","Provençals del Poblenou",742
+"2019","3","10","Sant Martí","72","Sant Martí de Provençals",354
+"2019","3","10","Sant Martí","73","la Verneda i la Pau",180
+"2019","4","1","Ciutat Vella","1","el Raval",191
+"2019","4","1","Ciutat Vella","2","el Barri Gòtic",455
+"2019","4","1","Ciutat Vella","3","la Barceloneta",268
+"2019","4","1","Ciutat Vella","4","Sant Pere, Santa Caterina i la Ribera",336
+"2019","4","2","Eixample","5","el Fort Pienc",473
+"2019","4","2","Eixample","6","la Sagrada Família",286
+"2019","4","2","Eixample","7","la Dreta de l'Eixample",497
+"2019","4","2","Eixample","8","l'Antiga Esquerra de l'Eixample",504
+"2019","4","2","Eixample","9","la Nova Esquerra de l'Eixample",296
+"2019","4","2","Eixample","10","Sant Antoni",313
+"2019","4","3","Sants-Montjuïc","11","el Poble Sec",309
+"2019","4","3","Sants-Montjuïc","13","la Marina de Port",170
+"2019","4","3","Sants-Montjuïc","14","la Font de la Guatlla",277
+"2019","4","3","Sants-Montjuïc","15","Hostafrancs",252
+"2019","4","3","Sants-Montjuïc","16","la Bordeta",173
+"2019","4","3","Sants-Montjuïc","17","Sants - Badal",239
+"2019","4","3","Sants-Montjuïc","18","Sants",266
+"2019","4","4","Les Corts","19","les Corts",379
+"2019","4","4","Les Corts","20","la Maternitat i Sant Ramon",335
+"2019","4","4","Les Corts","21","Pedralbes",1534
+"2019","4","5","Sarrià-Sant Gervasi","22","Vallvidrera, el Tibidabo i les Planes",619
+"2019","4","5","Sarrià-Sant Gervasi","23","Sarrià",540
+"2019","4","5","Sarrià-Sant Gervasi","24","les Tres Torres",919
+"2019","4","5","Sarrià-Sant Gervasi","25","Sant Gervasi - la Bonanova",535
+"2019","4","5","Sarrià-Sant Gervasi","26","Sant Gervasi - Galvany",607
+"2019","4","5","Sarrià-Sant Gervasi","27","el Putxet i el Farró",473
+"2019","4","6","Gràcia","28","Vallcarca i els Penitents",367
+"2019","4","6","Gràcia","29","el Coll",205
+"2019","4","6","Gràcia","30","la Salut",323
+"2019","4","6","Gràcia","31","la Vila de Gràcia",516
+"2019","4","6","Gràcia","32","el Camp d'en Grassot i Gràcia Nova",459
+"2019","4","7","Horta-Guinardó","33","el Baix Guinardó",219
+"2019","4","7","Horta-Guinardó","34","Can Baró",223
+"2019","4","7","Horta-Guinardó","35","el Guinardó",218
+"2019","4","7","Horta-Guinardó","36","la Font d'en Fargues",336
+"2019","4","7","Horta-Guinardó","37","el Carmel",191
+"2019","4","7","Horta-Guinardó","38","la Teixonera",274
+"2019","4","7","Horta-Guinardó","39","Sant Genís dels Agudells",253
+"2019","4","7","Horta-Guinardó","40","Montbau",150
+"2019","4","7","Horta-Guinardó","41","la Vall d'Hebron",170
+"2019","4","7","Horta-Guinardó","43","Horta",277
+"2019","4","8","Nou Barris","44","Vilapicina i la Torre Llobeta",191
+"2019","4","8","Nou Barris","45","Porta",171
+"2019","4","8","Nou Barris","46","el Turó de la Peira",187
+"2019","4","8","Nou Barris","48","la Guineueta",199
+"2019","4","8","Nou Barris","49","Canyelles",170
+"2019","4","8","Nou Barris","50","les Roquetes",193
+"2019","4","8","Nou Barris","51","Verdun",192
+"2019","4","8","Nou Barris","52","la Prosperitat",126
+"2019","4","8","Nou Barris","53","la Trinitat Nova",76
+"2019","4","8","Nou Barris","55","Ciutat Meridiana",91
+"2019","4","8","Nou Barris","56","Vallbona",140
+"2019","4","9","Sant Andreu","57","la Trinitat Vella",233
+"2019","4","9","Sant Andreu","59","el Bon Pastor",155
+"2019","4","9","Sant Andreu","60","Sant Andreu",245
+"2019","4","9","Sant Andreu","61","la Sagrera",258
+"2019","4","9","Sant Andreu","62","el Congrés i els Indians",231
+"2019","4","9","Sant Andreu","63","Navas",370
+"2019","4","10","Sant Martí","64","el Camp de l'Arpa del Clot",295
+"2019","4","10","Sant Martí","65","el Clot",347
+"2019","4","10","Sant Martí","66","el Parc i la Llacuna del Poblenou",197
+"2019","4","10","Sant Martí","67","la Vila Olímpica del Poblenou",541
+"2019","4","10","Sant Martí","68","el Poblenou",401
+"2019","4","10","Sant Martí","69","Diagonal Mar i el Front Marítim del Poblenou",491
+"2019","4","10","Sant Martí","70","el Besòs i el Maresme",253
+"2019","4","10","Sant Martí","71","Provençals del Poblenou",174
+"2019","4","10","Sant Martí","72","Sant Martí de Provençals",266
+"2019","4","10","Sant Martí","73","la Verneda i la Pau",174
+"2019","4","1","Ciutat Vella","2","el Barri Gòtic",946
+"2019","4","1","Ciutat Vella","3","la Barceloneta",210
+"2019","4","1","Ciutat Vella","4","Sant Pere, Santa Caterina i la Ribera",570
+"2019","4","2","Eixample","7","la Dreta de l'Eixample",229
+"2019","4","2","Eixample","8","l'Antiga Esquerra de l'Eixample",996
+"2019","4","3","Sants-Montjuïc","15","Hostafrancs",105
+"2019","4","3","Sants-Montjuïc","18","Sants",275
+"2019","4","4","Les Corts","19","les Corts",466
+"2019","4","4","Les Corts","21","Pedralbes",3001
+"2019","4","5","Sarrià-Sant Gervasi","25","Sant Gervasi - la Bonanova",513
+"2019","4","5","Sarrià-Sant Gervasi","26","Sant Gervasi - Galvany",715
+"2019","4","5","Sarrià-Sant Gervasi","27","el Putxet i el Farró",763
+"2019","4","6","Gràcia","28","Vallcarca i els Penitents",387
+"2019","4","6","Gràcia","29","el Coll",268
+"2019","4","6","Gràcia","31","la Vila de Gràcia",436
+"2019","4","7","Horta-Guinardó","37","el Carmel",231
+"2019","4","7","Horta-Guinardó","38","la Teixonera",315
+"2019","4","7","Horta-Guinardó","39","Sant Genís dels Agudells",125
+"2019","4","7","Horta-Guinardó","40","Montbau",141
+"2019","4","7","Horta-Guinardó","43","Horta",271
+"2019","4","8","Nou Barris","51","Verdun",278
+"2019","4","9","Sant Andreu","60","Sant Andreu",359
+"2019","4","10","Sant Martí","64","el Camp de l'Arpa del Clot",454
+"2019","4","10","Sant Martí","65","el Clot",389
+"2019","4","10","Sant Martí","68","el Poblenou",393
+"2019","4","10","Sant Martí","70","el Besòs i el Maresme",480
+"2019","4","10","Sant Martí","73","la Verneda i la Pau",178
+"2019","4","1","Ciutat Vella","1","el Raval",186
+"2019","4","1","Ciutat Vella","2","el Barri Gòtic",392
+"2019","4","1","Ciutat Vella","3","la Barceloneta",276
+"2019","4","1","Ciutat Vella","4","Sant Pere, Santa Caterina i la Ribera",323
+"2019","4","2","Eixample","5","el Fort Pienc",432
+"2019","4","2","Eixample","6","la Sagrada Família",286
+"2019","4","2","Eixample","7","la Dreta de l'Eixample",519
+"2019","4","2","Eixample","8","l'Antiga Esquerra de l'Eixample",373
+"2019","4","2","Eixample","9","la Nova Esquerra de l'Eixample",302
+"2019","4","2","Eixample","10","Sant Antoni",313
+"2019","4","3","Sants-Montjuïc","11","el Poble Sec",309
+"2019","4","3","Sants-Montjuïc","13","la Marina de Port",170
+"2019","4","3","Sants-Montjuïc","14","la Font de la Guatlla",277
+"2019","4","3","Sants-Montjuïc","15","Hostafrancs",258
+"2019","4","3","Sants-Montjuïc","16","la Bordeta",173
+"2019","4","3","Sants-Montjuïc","17","Sants - Badal",244
+"2019","4","3","Sants-Montjuïc","18","Sants",264
+"2019","4","4","Les Corts","19","les Corts",371
+"2019","4","4","Les Corts","20","la Maternitat i Sant Ramon",335
+"2019","4","4","Les Corts","21","Pedralbes",678
+"2019","4","5","Sarrià-Sant Gervasi","22","Vallvidrera, el Tibidabo i les Planes",619
+"2019","4","5","Sarrià-Sant Gervasi","23","Sarrià",497
+"2019","4","5","Sarrià-Sant Gervasi","24","les Tres Torres",919
+"2019","4","5","Sarrià-Sant Gervasi","25","Sant Gervasi - la Bonanova",539
+"2019","4","5","Sarrià-Sant Gervasi","26","Sant Gervasi - Galvany",580
+"2019","4","5","Sarrià-Sant Gervasi","27","el Putxet i el Farró",428
+"2019","4","6","Gràcia","28","Vallcarca i els Penitents",357
+"2019","4","6","Gràcia","29","el Coll",178
+"2019","4","6","Gràcia","30","la Salut",323
+"2019","4","6","Gràcia","31","la Vila de Gràcia",520
+"2019","4","6","Gràcia","32","el Camp d'en Grassot i Gràcia Nova",452
+"2019","4","7","Horta-Guinardó","33","el Baix Guinardó",219
+"2019","4","7","Horta-Guinardó","34","Can Baró",223
+"2019","4","7","Horta-Guinardó","35","el Guinardó",218
+"2019","4","7","Horta-Guinardó","36","la Font d'en Fargues",336
+"2019","4","7","Horta-Guinardó","37","el Carmel",180
+"2019","4","7","Horta-Guinardó","38","la Teixonera",211
+"2019","4","7","Horta-Guinardó","39","Sant Genís dels Agudells",279
+"2019","4","7","Horta-Guinardó","41","la Vall d'Hebron",170
+"2019","4","7","Horta-Guinardó","43","Horta",279
+"2019","4","8","Nou Barris","44","Vilapicina i la Torre Llobeta",191
+"2019","4","8","Nou Barris","45","Porta",169
+"2019","4","8","Nou Barris","46","el Turó de la Peira",187
+"2019","4","8","Nou Barris","48","la Guineueta",199
+"2019","4","8","Nou Barris","49","Canyelles",170
+"2019","4","8","Nou Barris","50","les Roquetes",193
+"2019","4","8","Nou Barris","51","Verdun",149
+"2019","4","8","Nou Barris","52","la Prosperitat",126
+"2019","4","8","Nou Barris","53","la Trinitat Nova",76
+"2019","4","8","Nou Barris","55","Ciutat Meridiana",91
+"2019","4","8","Nou Barris","56","Vallbona",140
+"2019","4","9","Sant Andreu","57","la Trinitat Vella",233
+"2019","4","9","Sant Andreu","59","el Bon Pastor",159
+"2019","4","9","Sant Andreu","60","Sant Andreu",214
+"2019","4","9","Sant Andreu","61","la Sagrera",258
+"2019","4","9","Sant Andreu","62","el Congrés i els Indians",231
+"2019","4","9","Sant Andreu","63","Navas",374
+"2019","4","10","Sant Martí","64","el Camp de l'Arpa del Clot",279
+"2019","4","10","Sant Martí","65","el Clot",345
+"2019","4","10","Sant Martí","66","el Parc i la Llacuna del Poblenou",198
+"2019","4","10","Sant Martí","67","la Vila Olímpica del Poblenou",541
+"2019","4","10","Sant Martí","68","el Poblenou",402
+"2019","4","10","Sant Martí","69","Diagonal Mar i el Front Marítim del Poblenou",491
+"2019","4","10","Sant Martí","70","el Besòs i el Maresme",218
+"2019","4","10","Sant Martí","72","Sant Martí de Provençals",266
+"2019","4","10","Sant Martí","73","la Verneda i la Pau",174
+"2020","1","1","Ciutat Vella","1","el Raval",194
+"2020","1","1","Ciutat Vella","2","el Barri Gòtic",377
+"2020","1","1","Ciutat Vella","3","la Barceloneta",215
+"2020","1","1","Ciutat Vella","4","Sant Pere, Santa Caterina i la Ribera",305
+"2020","1","2","Eixample","5","el Fort Pienc",480
+"2020","1","2","Eixample","6","la Sagrada Família",239
+"2020","1","2","Eixample","7","la Dreta de l'Eixample",524
+"2020","1","2","Eixample","8","l'Antiga Esquerra de l'Eixample",479
+"2020","1","2","Eixample","9","la Nova Esquerra de l'Eixample",368
+"2020","1","2","Eixample","10","Sant Antoni",355
+"2020","1","3","Sants-Montjuïc","11","el Poble Sec",233
+"2020","1","3","Sants-Montjuïc","12","la Marina del Prat Vermell",164
+"2020","1","3","Sants-Montjuïc","13","la Marina de Port",183
+"2020","1","3","Sants-Montjuïc","14","la Font de la Guatlla",230
+"2020","1","3","Sants-Montjuïc","15","Hostafrancs",280
+"2020","1","3","Sants-Montjuïc","16","la Bordeta",223
+"2020","1","3","Sants-Montjuïc","17","Sants - Badal",251
+"2020","1","3","Sants-Montjuïc","18","Sants",309
+"2020","1","4","Les Corts","19","les Corts",409
+"2020","1","4","Les Corts","20","la Maternitat i Sant Ramon",400
+"2020","1","4","Les Corts","21","Pedralbes",1003
+"2020","1","5","Sarrià-Sant Gervasi","22","Vallvidrera, el Tibidabo i les Planes",293
+"2020","1","5","Sarrià-Sant Gervasi","23","Sarrià",680
+"2020","1","5","Sarrià-Sant Gervasi","24","les Tres Torres",781
+"2020","1","5","Sarrià-Sant Gervasi","25","Sant Gervasi - la Bonanova",605
+"2020","1","5","Sarrià-Sant Gervasi","26","Sant Gervasi - Galvany",670
+"2020","1","5","Sarrià-Sant Gervasi","27","el Putxet i el Farró",516
+"2020","1","6","Gràcia","28","Vallcarca i els Penitents",351
+"2020","1","6","Gràcia","29","el Coll",312
+"2020","1","6","Gràcia","30","la Salut",334
+"2020","1","6","Gràcia","31","la Vila de Gràcia",413
+"2020","1","6","Gràcia","32","el Camp d'en Grassot i Gràcia Nova",335
+"2020","1","7","Horta-Guinardó","33","el Baix Guinardó",273
+"2020","1","7","Horta-Guinardó","34","Can Baró",214
+"2020","1","7","Horta-Guinardó","35","el Guinardó",247
+"2020","1","7","Horta-Guinardó","36","la Font d'en Fargues",343
+"2020","1","7","Horta-Guinardó","37","el Carmel",164
+"2020","1","7","Horta-Guinardó","38","la Teixonera",160
+"2020","1","7","Horta-Guinardó","39","Sant Genís dels Agudells",165
+"2020","1","7","Horta-Guinardó","40","Montbau",193
+"2020","1","7","Horta-Guinardó","41","la Vall d'Hebron",234
+"2020","1","7","Horta-Guinardó","43","Horta",278
+"2020","1","8","Nou Barris","44","Vilapicina i la Torre Llobeta",206
+"2020","1","8","Nou Barris","45","Porta",223
+"2020","1","8","Nou Barris","46","el Turó de la Peira",158
+"2020","1","8","Nou Barris","47","Can Peguera",123
+"2020","1","8","Nou Barris","48","la Guineueta",203
+"2020","1","8","Nou Barris","49","Canyelles",180
+"2020","1","8","Nou Barris","50","les Roquetes",173
+"2020","1","8","Nou Barris","51","Verdun",177
+"2020","1","8","Nou Barris","52","la Prosperitat",155
+"2020","1","8","Nou Barris","53","la Trinitat Nova",99
+"2020","1","8","Nou Barris","55","Ciutat Meridiana",104
+"2020","1","9","Sant Andreu","57","la Trinitat Vella",180
+"2020","1","9","Sant Andreu","58","Baró de Viver",262
+"2020","1","9","Sant Andreu","59","el Bon Pastor",128
+"2020","1","9","Sant Andreu","60","Sant Andreu",247
+"2020","1","9","Sant Andreu","61","la Sagrera",257
+"2020","1","9","Sant Andreu","62","el Congrés i els Indians",245
+"2020","1","9","Sant Andreu","63","Navas",394
+"2020","1","10","Sant Martí","64","el Camp de l'Arpa del Clot",339
+"2020","1","10","Sant Martí","65","el Clot",418
+"2020","1","10","Sant Martí","66","el Parc i la Llacuna del Poblenou",438
+"2020","1","10","Sant Martí","67","la Vila Olímpica del Poblenou",620
+"2020","1","10","Sant Martí","68","el Poblenou",359
+"2020","1","10","Sant Martí","69","Diagonal Mar i el Front Marítim del Poblenou",768
+"2020","1","10","Sant Martí","70","el Besòs i el Maresme",203
+"2020","1","10","Sant Martí","71","Provençals del Poblenou",307
+"2020","1","10","Sant Martí","72","Sant Martí de Provençals",286
+"2020","1","10","Sant Martí","73","la Verneda i la Pau",168
+"2020","1","1","Ciutat Vella","2","el Barri Gòtic",531
+"2020","1","1","Ciutat Vella","3","la Barceloneta",198
+"2020","1","1","Ciutat Vella","4","Sant Pere, Santa Caterina i la Ribera",323
+"2020","1","2","Eixample","5","el Fort Pienc",367
+"2020","1","2","Eixample","7","la Dreta de l'Eixample",219
+"2020","1","2","Eixample","8","l'Antiga Esquerra de l'Eixample",581
+"2020","1","2","Eixample","9","la Nova Esquerra de l'Eixample",264
+"2020","1","3","Sants-Montjuïc","14","la Font de la Guatlla",107
+"2020","1","3","Sants-Montjuïc","15","Hostafrancs",195
+"2020","1","3","Sants-Montjuïc","17","Sants - Badal",326
+"2020","1","3","Sants-Montjuïc","18","Sants",413
+"2020","1","4","Les Corts","19","les Corts",460
+"2020","1","4","Les Corts","20","la Maternitat i Sant Ramon",396
+"2020","1","4","Les Corts","21","Pedralbes",2127
+"2020","1","5","Sarrià-Sant Gervasi","23","Sarrià",705
+"2020","1","5","Sarrià-Sant Gervasi","25","Sant Gervasi - la Bonanova",725
+"2020","1","5","Sarrià-Sant Gervasi","26","Sant Gervasi - Galvany",567
+"2020","1","5","Sarrià-Sant Gervasi","27","el Putxet i el Farró",639
+"2020","1","6","Gràcia","28","Vallcarca i els Penitents",249
+"2020","1","6","Gràcia","29","el Coll",198
+"2020","1","6","Gràcia","31","la Vila de Gràcia",436
+"2020","1","7","Horta-Guinardó","35","el Guinardó",335
+"2020","1","7","Horta-Guinardó","36","la Font d'en Fargues",400
+"2020","1","7","Horta-Guinardó","37","el Carmel",193
+"2020","1","7","Horta-Guinardó","38","la Teixonera",168
+"2020","1","7","Horta-Guinardó","40","Montbau",179
+"2020","1","7","Horta-Guinardó","41","la Vall d'Hebron",190
+"2020","1","7","Horta-Guinardó","43","Horta",368
+"2020","1","8","Nou Barris","51","Verdun",280
+"2020","1","9","Sant Andreu","60","Sant Andreu",266
+"2020","1","9","Sant Andreu","62","el Congrés i els Indians",230
+"2020","1","9","Sant Andreu","63","Navas",560
+"2020","1","10","Sant Martí","64","el Camp de l'Arpa del Clot",550
+"2020","1","10","Sant Martí","65","el Clot",423
+"2020","1","10","Sant Martí","68","el Poblenou",420
+"2020","1","10","Sant Martí","70","el Besòs i el Maresme",539
+"2020","1","10","Sant Martí","71","Provençals del Poblenou",228
+"2020","1","10","Sant Martí","72","Sant Martí de Provençals",200
+"2020","1","10","Sant Martí","73","la Verneda i la Pau",193
+"2020","1","1","Ciutat Vella","1","el Raval",194
+"2020","1","1","Ciutat Vella","2","el Barri Gòtic",367
+"2020","1","1","Ciutat Vella","3","la Barceloneta",219
+"2020","1","1","Ciutat Vella","4","Sant Pere, Santa Caterina i la Ribera",304
+"2020","1","2","Eixample","5","el Fort Pienc",501
+"2020","1","2","Eixample","6","la Sagrada Família",239
+"2020","1","2","Eixample","7","la Dreta de l'Eixample",552
+"2020","1","2","Eixample","8","l'Antiga Esquerra de l'Eixample",460
+"2020","1","2","Eixample","9","la Nova Esquerra de l'Eixample",377
+"2020","1","2","Eixample","10","Sant Antoni",355
+"2020","1","3","Sants-Montjuïc","11","el Poble Sec",233
+"2020","1","3","Sants-Montjuïc","12","la Marina del Prat Vermell",164
+"2020","1","3","Sants-Montjuïc","13","la Marina de Port",183
+"2020","1","3","Sants-Montjuïc","14","la Font de la Guatlla",271
+"2020","1","3","Sants-Montjuïc","15","Hostafrancs",283
+"2020","1","3","Sants-Montjuïc","16","la Bordeta",223
+"2020","1","3","Sants-Montjuïc","17","Sants - Badal",239
+"2020","1","3","Sants-Montjuïc","18","Sants",299
+"2020","1","4","Les Corts","19","les Corts",398
+"2020","1","4","Les Corts","20","la Maternitat i Sant Ramon",408
+"2020","1","4","Les Corts","21","Pedralbes",733
+"2020","1","5","Sarrià-Sant Gervasi","22","Vallvidrera, el Tibidabo i les Planes",293
+"2020","1","5","Sarrià-Sant Gervasi","23","Sarrià",678
+"2020","1","5","Sarrià-Sant Gervasi","24","les Tres Torres",781
+"2020","1","5","Sarrià-Sant Gervasi","25","Sant Gervasi - la Bonanova",599
+"2020","1","5","Sarrià-Sant Gervasi","26","Sant Gervasi - Galvany",699
+"2020","1","5","Sarrià-Sant Gervasi","27","el Putxet i el Farró",496
+"2020","1","6","Gràcia","28","Vallcarca i els Penitents",363
+"2020","1","6","Gràcia","29","el Coll",337
+"2020","1","6","Gràcia","30","la Salut",334
+"2020","1","6","Gràcia","31","la Vila de Gràcia",411
+"2020","1","6","Gràcia","32","el Camp d'en Grassot i Gràcia Nova",335
+"2020","1","7","Horta-Guinardó","33","el Baix Guinardó",273
+"2020","1","7","Horta-Guinardó","34","Can Baró",214
+"2020","1","7","Horta-Guinardó","35","el Guinardó",242
+"2020","1","7","Horta-Guinardó","36","la Font d'en Fargues",337
+"2020","1","7","Horta-Guinardó","37","el Carmel",157
+"2020","1","7","Horta-Guinardó","38","la Teixonera",154
+"2020","1","7","Horta-Guinardó","39","Sant Genís dels Agudells",165
+"2020","1","7","Horta-Guinardó","40","Montbau",197
+"2020","1","7","Horta-Guinardó","41","la Vall d'Hebron",301
+"2020","1","7","Horta-Guinardó","43","Horta",240
+"2020","1","8","Nou Barris","44","Vilapicina i la Torre Llobeta",206
+"2020","1","8","Nou Barris","45","Porta",223
+"2020","1","8","Nou Barris","46","el Turó de la Peira",158
+"2020","1","8","Nou Barris","47","Can Peguera",123
+"2020","1","8","Nou Barris","48","la Guineueta",203
+"2020","1","8","Nou Barris","49","Canyelles",180
+"2020","1","8","Nou Barris","50","les Roquetes",173
+"2020","1","8","Nou Barris","51","Verdun",159
+"2020","1","8","Nou Barris","52","la Prosperitat",155
+"2020","1","8","Nou Barris","53","la Trinitat Nova",99
+"2020","1","8","Nou Barris","55","Ciutat Meridiana",104
+"2020","1","9","Sant Andreu","57","la Trinitat Vella",180
+"2020","1","9","Sant Andreu","58","Baró de Viver",262
+"2020","1","9","Sant Andreu","59","el Bon Pastor",128
+"2020","1","9","Sant Andreu","60","Sant Andreu",242
+"2020","1","9","Sant Andreu","61","la Sagrera",257
+"2020","1","9","Sant Andreu","62","el Congrés i els Indians",247
+"2020","1","9","Sant Andreu","63","Navas",353
+"2020","1","10","Sant Martí","64","el Camp de l'Arpa del Clot",331
+"2020","1","10","Sant Martí","65","el Clot",417
+"2020","1","10","Sant Martí","66","el Parc i la Llacuna del Poblenou",438
+"2020","1","10","Sant Martí","67","la Vila Olímpica del Poblenou",620
+"2020","1","10","Sant Martí","68","el Poblenou",338
+"2020","1","10","Sant Martí","69","Diagonal Mar i el Front Marítim del Poblenou",768
+"2020","1","10","Sant Martí","70","el Besòs i el Maresme",198
+"2020","1","10","Sant Martí","71","Provençals del Poblenou",347
+"2020","1","10","Sant Martí","72","Sant Martí de Provençals",291
+"2020","1","10","Sant Martí","73","la Verneda i la Pau",164
+"2020","2","1","Ciutat Vella","1","el Raval",218
+"2020","2","1","Ciutat Vella","2","el Barri Gòtic",413
+"2020","2","1","Ciutat Vella","3","la Barceloneta",250
+"2020","2","1","Ciutat Vella","4","Sant Pere, Santa Caterina i la Ribera",382
+"2020","2","2","Eixample","5","el Fort Pienc",319
+"2020","2","2","Eixample","6","la Sagrada Família",288
+"2020","2","2","Eixample","7","la Dreta de l'Eixample",658
+"2020","2","2","Eixample","8","l'Antiga Esquerra de l'Eixample",472
+"2020","2","2","Eixample","9","la Nova Esquerra de l'Eixample",403
+"2020","2","2","Eixample","10","Sant Antoni",371
+"2020","2","3","Sants-Montjuïc","11","el Poble Sec",221
+"2020","2","3","Sants-Montjuïc","12","la Marina del Prat Vermell",235
+"2020","2","3","Sants-Montjuïc","13","la Marina de Port",221
+"2020","2","3","Sants-Montjuïc","14","la Font de la Guatlla",238
+"2020","2","3","Sants-Montjuïc","15","Hostafrancs",251
+"2020","2","3","Sants-Montjuïc","16","la Bordeta",316
+"2020","2","3","Sants-Montjuïc","17","Sants - Badal",229
+"2020","2","3","Sants-Montjuïc","18","Sants",295
+"2020","2","4","Les Corts","19","les Corts",440
+"2020","2","4","Les Corts","20","la Maternitat i Sant Ramon",377
+"2020","2","4","Les Corts","21","Pedralbes",1324
+"2020","2","5","Sarrià-Sant Gervasi","22","Vallvidrera, el Tibidabo i les Planes",402
+"2020","2","5","Sarrià-Sant Gervasi","23","Sarrià",810
+"2020","2","5","Sarrià-Sant Gervasi","24","les Tres Torres",940
+"2020","2","5","Sarrià-Sant Gervasi","25","Sant Gervasi - la Bonanova",654
+"2020","2","5","Sarrià-Sant Gervasi","26","Sant Gervasi - Galvany",786
+"2020","2","5","Sarrià-Sant Gervasi","27","el Putxet i el Farró",454
+"2020","2","6","Gràcia","28","Vallcarca i els Penitents",319
+"2020","2","6","Gràcia","29","el Coll",287
+"2020","2","6","Gràcia","30","la Salut",370
+"2020","2","6","Gràcia","31","la Vila de Gràcia",320
+"2020","2","6","Gràcia","32","el Camp d'en Grassot i Gràcia Nova",362
+"2020","2","7","Horta-Guinardó","33","el Baix Guinardó",259
+"2020","2","7","Horta-Guinardó","34","Can Baró",199
+"2020","2","7","Horta-Guinardó","35","el Guinardó",222
+"2020","2","7","Horta-Guinardó","36","la Font d'en Fargues",309
+"2020","2","7","Horta-Guinardó","37","el Carmel",165
+"2020","2","7","Horta-Guinardó","38","la Teixonera",177
+"2020","2","7","Horta-Guinardó","39","Sant Genís dels Agudells",145
+"2020","2","7","Horta-Guinardó","40","Montbau",155
+"2020","2","7","Horta-Guinardó","41","la Vall d'Hebron",180
+"2020","2","7","Horta-Guinardó","43","Horta",288
+"2020","2","8","Nou Barris","44","Vilapicina i la Torre Llobeta",221
+"2020","2","8","Nou Barris","45","Porta",170
+"2020","2","8","Nou Barris","46","el Turó de la Peira",156
+"2020","2","8","Nou Barris","48","la Guineueta",212
+"2020","2","8","Nou Barris","49","Canyelles",165
+"2020","2","8","Nou Barris","50","les Roquetes",138
+"2020","2","8","Nou Barris","51","Verdun",175
+"2020","2","8","Nou Barris","52","la Prosperitat",165
+"2020","2","8","Nou Barris","53","la Trinitat Nova",105
+"2020","2","8","Nou Barris","55","Ciutat Meridiana",75
+"2020","2","9","Sant Andreu","57","la Trinitat Vella",79
+"2020","2","9","Sant Andreu","59","el Bon Pastor",186
+"2020","2","9","Sant Andreu","60","Sant Andreu",230
+"2020","2","9","Sant Andreu","61","la Sagrera",227
+"2020","2","9","Sant Andreu","62","el Congrés i els Indians",267
+"2020","2","9","Sant Andreu","63","Navas",223
+"2020","2","10","Sant Martí","64","el Camp de l'Arpa del Clot",254
+"2020","2","10","Sant Martí","65","el Clot",265
+"2020","2","10","Sant Martí","66","el Parc i la Llacuna del Poblenou",308
+"2020","2","10","Sant Martí","67","la Vila Olímpica del Poblenou",596
+"2020","2","10","Sant Martí","68","el Poblenou",332
+"2020","2","10","Sant Martí","69","Diagonal Mar i el Front Marítim del Poblenou",389
+"2020","2","10","Sant Martí","70","el Besòs i el Maresme",144
+"2020","2","10","Sant Martí","71","Provençals del Poblenou",251
+"2020","2","10","Sant Martí","72","Sant Martí de Provençals",156
+"2020","2","10","Sant Martí","73","la Verneda i la Pau",173
+"2020","2","1","Ciutat Vella","1","el Raval",302
+"2020","2","1","Ciutat Vella","2","el Barri Gòtic",307
+"2020","2","1","Ciutat Vella","3","la Barceloneta",265
+"2020","2","1","Ciutat Vella","4","Sant Pere, Santa Caterina i la Ribera",759
+"2020","2","2","Eixample","8","l'Antiga Esquerra de l'Eixample",473
+"2020","2","2","Eixample","9","la Nova Esquerra de l'Eixample",501
+"2020","2","2","Eixample","10","Sant Antoni",300
+"2020","2","3","Sants-Montjuïc","11","el Poble Sec",170
+"2020","2","3","Sants-Montjuïc","15","Hostafrancs",146
+"2020","2","3","Sants-Montjuïc","17","Sants - Badal",271
+"2020","2","3","Sants-Montjuïc","18","Sants",460
+"2020","2","4","Les Corts","19","les Corts",605
+"2020","2","4","Les Corts","20","la Maternitat i Sant Ramon",377
+"2020","2","5","Sarrià-Sant Gervasi","23","Sarrià",1483
+"2020","2","5","Sarrià-Sant Gervasi","25","Sant Gervasi - la Bonanova",420
+"2020","2","5","Sarrià-Sant Gervasi","26","Sant Gervasi - Galvany",377
+"2020","2","5","Sarrià-Sant Gervasi","27","el Putxet i el Farró",661
+"2020","2","6","Gràcia","29","el Coll",328
+"2020","2","6","Gràcia","31","la Vila de Gràcia",779
+"2020","2","6","Gràcia","32","el Camp d'en Grassot i Gràcia Nova",793
+"2020","2","7","Horta-Guinardó","37","el Carmel",139
+"2020","2","7","Horta-Guinardó","38","la Teixonera",178
+"2020","2","7","Horta-Guinardó","39","Sant Genís dels Agudells",47
+"2020","2","7","Horta-Guinardó","41","la Vall d'Hebron",180
+"2020","2","7","Horta-Guinardó","43","Horta",324
+"2020","2","9","Sant Andreu","60","Sant Andreu",302
+"2020","2","10","Sant Martí","66","el Parc i la Llacuna del Poblenou",342
+"2020","2","10","Sant Martí","68","el Poblenou",457
+"2020","2","10","Sant Martí","71","Provençals del Poblenou",205
+"2020","2","1","Ciutat Vella","1","el Raval",212
+"2020","2","1","Ciutat Vella","2","el Barri Gòtic",421
+"2020","2","1","Ciutat Vella","3","la Barceloneta",247
+"2020","2","1","Ciutat Vella","4","Sant Pere, Santa Caterina i la Ribera",330
+"2020","2","2","Eixample","5","el Fort Pienc",319
+"2020","2","2","Eixample","6","la Sagrada Família",288
+"2020","2","2","Eixample","7","la Dreta de l'Eixample",658
+"2020","2","2","Eixample","8","l'Antiga Esquerra de l'Eixample",472
+"2020","2","2","Eixample","9","la Nova Esquerra de l'Eixample",387
+"2020","2","2","Eixample","10","Sant Antoni",376
+"2020","2","3","Sants-Montjuïc","11","el Poble Sec",225
+"2020","2","3","Sants-Montjuïc","12","la Marina del Prat Vermell",235
+"2020","2","3","Sants-Montjuïc","13","la Marina de Port",221
+"2020","2","3","Sants-Montjuïc","14","la Font de la Guatlla",238
+"2020","2","3","Sants-Montjuïc","15","Hostafrancs",312
+"2020","2","3","Sants-Montjuïc","16","la Bordeta",316
+"2020","2","3","Sants-Montjuïc","17","Sants - Badal",209
+"2020","2","3","Sants-Montjuïc","18","Sants",288
+"2020","2","4","Les Corts","19","les Corts",388
+"2020","2","4","Les Corts","20","la Maternitat i Sant Ramon",377
+"2020","2","4","Les Corts","21","Pedralbes",1324
+"2020","2","5","Sarrià-Sant Gervasi","22","Vallvidrera, el Tibidabo i les Planes",402
+"2020","2","5","Sarrià-Sant Gervasi","23","Sarrià",642
+"2020","2","5","Sarrià-Sant Gervasi","24","les Tres Torres",940
+"2020","2","5","Sarrià-Sant Gervasi","25","Sant Gervasi - la Bonanova",726
+"2020","2","5","Sarrià-Sant Gervasi","26","Sant Gervasi - Galvany",859
+"2020","2","5","Sarrià-Sant Gervasi","27","el Putxet i el Farró",425
+"2020","2","6","Gràcia","28","Vallcarca i els Penitents",319
+"2020","2","6","Gràcia","29","el Coll",214
+"2020","2","6","Gràcia","30","la Salut",370
+"2020","2","6","Gràcia","31","la Vila de Gràcia",314
+"2020","2","6","Gràcia","32","el Camp d'en Grassot i Gràcia Nova",304
+"2020","2","7","Horta-Guinardó","33","el Baix Guinardó",259
+"2020","2","7","Horta-Guinardó","34","Can Baró",199
+"2020","2","7","Horta-Guinardó","35","el Guinardó",222
+"2020","2","7","Horta-Guinardó","36","la Font d'en Fargues",309
+"2020","2","7","Horta-Guinardó","37","el Carmel",176
+"2020","2","7","Horta-Guinardó","38","la Teixonera",177
+"2020","2","7","Horta-Guinardó","39","Sant Genís dels Agudells",162
+"2020","2","7","Horta-Guinardó","40","Montbau",155
+"2020","2","7","Horta-Guinardó","43","Horta",257
+"2020","2","8","Nou Barris","44","Vilapicina i la Torre Llobeta",221
+"2020","2","8","Nou Barris","45","Porta",170
+"2020","2","8","Nou Barris","46","el Turó de la Peira",156
+"2020","2","8","Nou Barris","48","la Guineueta",212
+"2020","2","8","Nou Barris","49","Canyelles",165
+"2020","2","8","Nou Barris","50","les Roquetes",138
+"2020","2","8","Nou Barris","51","Verdun",175
+"2020","2","8","Nou Barris","52","la Prosperitat",165
+"2020","2","8","Nou Barris","53","la Trinitat Nova",105
+"2020","2","8","Nou Barris","55","Ciutat Meridiana",75
+"2020","2","9","Sant Andreu","57","la Trinitat Vella",79
+"2020","2","9","Sant Andreu","59","el Bon Pastor",186
+"2020","2","9","Sant Andreu","60","Sant Andreu",222
+"2020","2","9","Sant Andreu","61","la Sagrera",227
+"2020","2","9","Sant Andreu","62","el Congrés i els Indians",267
+"2020","2","9","Sant Andreu","63","Navas",223
+"2020","2","10","Sant Martí","64","el Camp de l'Arpa del Clot",254
+"2020","2","10","Sant Martí","65","el Clot",265
+"2020","2","10","Sant Martí","66","el Parc i la Llacuna del Poblenou",291
+"2020","2","10","Sant Martí","67","la Vila Olímpica del Poblenou",596
+"2020","2","10","Sant Martí","68","el Poblenou",290
+"2020","2","10","Sant Martí","69","Diagonal Mar i el Front Marítim del Poblenou",389
+"2020","2","10","Sant Martí","70","el Besòs i el Maresme",144
+"2020","2","10","Sant Martí","71","Provençals del Poblenou",265
+"2020","2","10","Sant Martí","72","Sant Martí de Provençals",156
+"2020","2","10","Sant Martí","73","la Verneda i la Pau",173
+"2020","3","1","Ciutat Vella","1","el Raval",207
+"2020","3","1","Ciutat Vella","2","el Barri Gòtic",336
+"2020","3","1","Ciutat Vella","3","la Barceloneta",174
+"2020","3","1","Ciutat Vella","4","Sant Pere, Santa Caterina i la Ribera",383
+"2020","3","2","Eixample","5","el Fort Pienc",285
+"2020","3","2","Eixample","6","la Sagrada Família",315
+"2020","3","2","Eixample","7","la Dreta de l'Eixample",592
+"2020","3","2","Eixample","8","l'Antiga Esquerra de l'Eixample",616
+"2020","3","2","Eixample","9","la Nova Esquerra de l'Eixample",329
+"2020","3","2","Eixample","10","Sant Antoni",349
+"2020","3","3","Sants-Montjuïc","11","el Poble Sec",216
+"2020","3","3","Sants-Montjuïc","12","la Marina del Prat Vermell",164
+"2020","3","3","Sants-Montjuïc","13","la Marina de Port",231
+"2020","3","3","Sants-Montjuïc","14","la Font de la Guatlla",244
+"2020","3","3","Sants-Montjuïc","15","Hostafrancs",224
+"2020","3","3","Sants-Montjuïc","16","la Bordeta",335
+"2020","3","3","Sants-Montjuïc","17","Sants - Badal",238
+"2020","3","3","Sants-Montjuïc","18","Sants",257
+"2020","3","4","Les Corts","19","les Corts",489
+"2020","3","4","Les Corts","20","la Maternitat i Sant Ramon",343
+"2020","3","4","Les Corts","21","Pedralbes",691
+"2020","3","5","Sarrià-Sant Gervasi","22","Vallvidrera, el Tibidabo i les Planes",468
+"2020","3","5","Sarrià-Sant Gervasi","23","Sarrià",909
+"2020","3","5","Sarrià-Sant Gervasi","24","les Tres Torres",700
+"2020","3","5","Sarrià-Sant Gervasi","25","Sant Gervasi - la Bonanova",797
+"2020","3","5","Sarrià-Sant Gervasi","26","Sant Gervasi - Galvany",796
+"2020","3","5","Sarrià-Sant Gervasi","27","el Putxet i el Farró",448
+"2020","3","6","Gràcia","28","Vallcarca i els Penitents",334
+"2020","3","6","Gràcia","29","el Coll",226
+"2020","3","6","Gràcia","30","la Salut",385
+"2020","3","6","Gràcia","31","la Vila de Gràcia",360
+"2020","3","6","Gràcia","32","el Camp d'en Grassot i Gràcia Nova",381
+"2020","3","7","Horta-Guinardó","33","el Baix Guinardó",298
+"2020","3","7","Horta-Guinardó","34","Can Baró",204
+"2020","3","7","Horta-Guinardó","35","el Guinardó",266
+"2020","3","7","Horta-Guinardó","36","la Font d'en Fargues",271
+"2020","3","7","Horta-Guinardó","37","el Carmel",175
+"2020","3","7","Horta-Guinardó","38","la Teixonera",165
+"2020","3","7","Horta-Guinardó","39","Sant Genís dels Agudells",137
+"2020","3","7","Horta-Guinardó","40","Montbau",105
+"2020","3","7","Horta-Guinardó","41","la Vall d'Hebron",198
+"2020","3","7","Horta-Guinardó","43","Horta",250
+"2020","3","8","Nou Barris","44","Vilapicina i la Torre Llobeta",171
+"2020","3","8","Nou Barris","45","Porta",166
+"2020","3","8","Nou Barris","46","el Turó de la Peira",173
+"2020","3","8","Nou Barris","48","la Guineueta",144
+"2020","3","8","Nou Barris","49","Canyelles",200
+"2020","3","8","Nou Barris","50","les Roquetes",105
+"2020","3","8","Nou Barris","51","Verdun",132
+"2020","3","8","Nou Barris","52","la Prosperitat",146
+"2020","3","8","Nou Barris","53","la Trinitat Nova",103
+"2020","3","8","Nou Barris","55","Ciutat Meridiana",40
+"2020","3","8","Nou Barris","56","Vallbona",145
+"2020","3","9","Sant Andreu","59","el Bon Pastor",164
+"2020","3","9","Sant Andreu","60","Sant Andreu",251
+"2020","3","9","Sant Andreu","61","la Sagrera",372
+"2020","3","9","Sant Andreu","62","el Congrés i els Indians",440
+"2020","3","9","Sant Andreu","63","Navas",275
+"2020","3","10","Sant Martí","64","el Camp de l'Arpa del Clot",241
+"2020","3","10","Sant Martí","65","el Clot",250
+"2020","3","10","Sant Martí","66","el Parc i la Llacuna del Poblenou",302
+"2020","3","10","Sant Martí","67","la Vila Olímpica del Poblenou",627
+"2020","3","10","Sant Martí","68","el Poblenou",339
+"2020","3","10","Sant Martí","69","Diagonal Mar i el Front Marítim del Poblenou",423
+"2020","3","10","Sant Martí","70","el Besòs i el Maresme",145
+"2020","3","10","Sant Martí","71","Provençals del Poblenou",219
+"2020","3","10","Sant Martí","72","Sant Martí de Provençals",189
+"2020","3","10","Sant Martí","73","la Verneda i la Pau",181
+"2020","3","1","Ciutat Vella","1","el Raval",287
+"2020","3","1","Ciutat Vella","2","el Barri Gòtic",198
+"2020","3","1","Ciutat Vella","3","la Barceloneta",166
+"2020","3","1","Ciutat Vella","4","Sant Pere, Santa Caterina i la Ribera",779
+"2020","3","2","Eixample","5","el Fort Pienc",390
+"2020","3","2","Eixample","7","la Dreta de l'Eixample",1490
+"2020","3","2","Eixample","8","l'Antiga Esquerra de l'Eixample",947
+"2020","3","2","Eixample","9","la Nova Esquerra de l'Eixample",359
+"2020","3","2","Eixample","10","Sant Antoni",200
+"2020","3","3","Sants-Montjuïc","11","el Poble Sec",190
+"2020","3","3","Sants-Montjuïc","13","la Marina de Port",120
+"2020","3","3","Sants-Montjuïc","15","Hostafrancs",275
+"2020","3","3","Sants-Montjuïc","18","Sants",230
+"2020","3","4","Les Corts","19","les Corts",515
+"2020","3","5","Sarrià-Sant Gervasi","23","Sarrià",3246
+"2020","3","5","Sarrià-Sant Gervasi","24","les Tres Torres",433
+"2020","3","5","Sarrià-Sant Gervasi","25","Sant Gervasi - la Bonanova",663
+"2020","3","5","Sarrià-Sant Gervasi","26","Sant Gervasi - Galvany",670
+"2020","3","5","Sarrià-Sant Gervasi","27","el Putxet i el Farró",562
+"2020","3","6","Gràcia","28","Vallcarca i els Penitents",406
+"2020","3","6","Gràcia","29","el Coll",238
+"2020","3","6","Gràcia","31","la Vila de Gràcia",358
+"2020","3","6","Gràcia","32","el Camp d'en Grassot i Gràcia Nova",1000
+"2020","3","7","Horta-Guinardó","37","el Carmel",196
+"2020","3","7","Horta-Guinardó","38","la Teixonera",120
+"2020","3","7","Horta-Guinardó","39","Sant Genís dels Agudells",103
+"2020","3","7","Horta-Guinardó","43","Horta",252
+"2020","3","8","Nou Barris","45","Porta",255
+"2020","3","9","Sant Andreu","60","Sant Andreu",373
+"2020","3","10","Sant Martí","68","el Poblenou",447
+"2020","3","10","Sant Martí","69","Diagonal Mar i el Front Marítim del Poblenou",240
+"2020","3","10","Sant Martí","71","Provençals del Poblenou",284
+"2020","3","1","Ciutat Vella","1","el Raval",192
+"2020","3","1","Ciutat Vella","2","el Barri Gòtic",364
+"2020","3","1","Ciutat Vella","3","la Barceloneta",175
+"2020","3","1","Ciutat Vella","4","Sant Pere, Santa Caterina i la Ribera",313
+"2020","3","2","Eixample","5","el Fort Pienc",281
+"2020","3","2","Eixample","6","la Sagrada Família",315
+"2020","3","2","Eixample","7","la Dreta de l'Eixample",572
+"2020","3","2","Eixample","8","l'Antiga Esquerra de l'Eixample",506
+"2020","3","2","Eixample","9","la Nova Esquerra de l'Eixample",322
+"2020","3","2","Eixample","10","Sant Antoni",355
+"2020","3","3","Sants-Montjuïc","11","el Poble Sec",220
+"2020","3","3","Sants-Montjuïc","12","la Marina del Prat Vermell",164
+"2020","3","3","Sants-Montjuïc","13","la Marina de Port",238
+"2020","3","3","Sants-Montjuïc","14","la Font de la Guatlla",244
+"2020","3","3","Sants-Montjuïc","15","Hostafrancs",218
+"2020","3","3","Sants-Montjuïc","16","la Bordeta",335
+"2020","3","3","Sants-Montjuïc","17","Sants - Badal",238
+"2020","3","3","Sants-Montjuïc","18","Sants",261
+"2020","3","4","Les Corts","19","les Corts",477
+"2020","3","4","Les Corts","20","la Maternitat i Sant Ramon",343
+"2020","3","4","Les Corts","21","Pedralbes",691
+"2020","3","5","Sarrià-Sant Gervasi","22","Vallvidrera, el Tibidabo i les Planes",468
+"2020","3","5","Sarrià-Sant Gervasi","23","Sarrià",797
+"2020","3","5","Sarrià-Sant Gervasi","24","les Tres Torres",747
+"2020","3","5","Sarrià-Sant Gervasi","25","Sant Gervasi - la Bonanova",821
+"2020","3","5","Sarrià-Sant Gervasi","26","Sant Gervasi - Galvany",837
+"2020","3","5","Sarrià-Sant Gervasi","27","el Putxet i el Farró",422
+"2020","3","6","Gràcia","28","Vallcarca i els Penitents",310
+"2020","3","6","Gràcia","29","el Coll",201
+"2020","3","6","Gràcia","30","la Salut",385
+"2020","3","6","Gràcia","31","la Vila de Gràcia",360
+"2020","3","6","Gràcia","32","el Camp d'en Grassot i Gràcia Nova",366
+"2020","3","7","Horta-Guinardó","33","el Baix Guinardó",298
+"2020","3","7","Horta-Guinardó","34","Can Baró",204
+"2020","3","7","Horta-Guinardó","35","el Guinardó",266
+"2020","3","7","Horta-Guinardó","36","la Font d'en Fargues",271
+"2020","3","7","Horta-Guinardó","37","el Carmel",162
+"2020","3","7","Horta-Guinardó","38","la Teixonera",169
+"2020","3","7","Horta-Guinardó","39","Sant Genís dels Agudells",155
+"2020","3","7","Horta-Guinardó","40","Montbau",105
+"2020","3","7","Horta-Guinardó","41","la Vall d'Hebron",198
+"2020","3","7","Horta-Guinardó","43","Horta",250
+"2020","3","8","Nou Barris","44","Vilapicina i la Torre Llobeta",171
+"2020","3","8","Nou Barris","45","Porta",156
+"2020","3","8","Nou Barris","46","el Turó de la Peira",173
+"2020","3","8","Nou Barris","48","la Guineueta",144
+"2020","3","8","Nou Barris","49","Canyelles",200
+"2020","3","8","Nou Barris","50","les Roquetes",105
+"2020","3","8","Nou Barris","51","Verdun",132
+"2020","3","8","Nou Barris","52","la Prosperitat",146
+"2020","3","8","Nou Barris","53","la Trinitat Nova",103
+"2020","3","8","Nou Barris","55","Ciutat Meridiana",40
+"2020","3","8","Nou Barris","56","Vallbona",145
+"2020","3","9","Sant Andreu","59","el Bon Pastor",164
+"2020","3","9","Sant Andreu","60","Sant Andreu",237
+"2020","3","9","Sant Andreu","61","la Sagrera",372
+"2020","3","9","Sant Andreu","62","el Congrés i els Indians",440
+"2020","3","9","Sant Andreu","63","Navas",275
+"2020","3","10","Sant Martí","64","el Camp de l'Arpa del Clot",241
+"2020","3","10","Sant Martí","65","el Clot",250
+"2020","3","10","Sant Martí","66","el Parc i la Llacuna del Poblenou",302
+"2020","3","10","Sant Martí","67","la Vila Olímpica del Poblenou",627
+"2020","3","10","Sant Martí","68","el Poblenou",298
+"2020","3","10","Sant Martí","69","Diagonal Mar i el Front Marítim del Poblenou",466
+"2020","3","10","Sant Martí","70","el Besòs i el Maresme",145
+"2020","3","10","Sant Martí","71","Provençals del Poblenou",178
+"2020","3","10","Sant Martí","72","Sant Martí de Provençals",189
+"2020","3","10","Sant Martí","73","la Verneda i la Pau",181
+"2020","4","1","Ciutat Vella","1","el Raval",208
+"2020","4","1","Ciutat Vella","2","el Barri Gòtic",346
+"2020","4","1","Ciutat Vella","3","la Barceloneta",189
+"2020","4","1","Ciutat Vella","4","Sant Pere, Santa Caterina i la Ribera",261
+"2020","4","2","Eixample","5","el Fort Pienc",318
+"2020","4","2","Eixample","6","la Sagrada Família",270
+"2020","4","2","Eixample","7","la Dreta de l'Eixample",743
+"2020","4","2","Eixample","8","l'Antiga Esquerra de l'Eixample",456
+"2020","4","2","Eixample","9","la Nova Esquerra de l'Eixample",304
+"2020","4","2","Eixample","10","Sant Antoni",364
+"2020","4","3","Sants-Montjuïc","11","el Poble Sec",258
+"2020","4","3","Sants-Montjuïc","12","la Marina del Prat Vermell",169
+"2020","4","3","Sants-Montjuïc","13","la Marina de Port",192
+"2020","4","3","Sants-Montjuïc","14","la Font de la Guatlla",211
+"2020","4","3","Sants-Montjuïc","15","Hostafrancs",244
+"2020","4","3","Sants-Montjuïc","16","la Bordeta",359
+"2020","4","3","Sants-Montjuïc","17","Sants - Badal",287
+"2020","4","3","Sants-Montjuïc","18","Sants",298
+"2020","4","4","Les Corts","19","les Corts",414
+"2020","4","4","Les Corts","20","la Maternitat i Sant Ramon",366
+"2020","4","4","Les Corts","21","Pedralbes",1044
+"2020","4","5","Sarrià-Sant Gervasi","22","Vallvidrera, el Tibidabo i les Planes",544
+"2020","4","5","Sarrià-Sant Gervasi","23","Sarrià",803
+"2020","4","5","Sarrià-Sant Gervasi","24","les Tres Torres",776
+"2020","4","5","Sarrià-Sant Gervasi","25","Sant Gervasi - la Bonanova",702
+"2020","4","5","Sarrià-Sant Gervasi","26","Sant Gervasi - Galvany",833
+"2020","4","5","Sarrià-Sant Gervasi","27","el Putxet i el Farró",451
+"2020","4","6","Gràcia","28","Vallcarca i els Penitents",331
+"2020","4","6","Gràcia","29","el Coll",217
+"2020","4","6","Gràcia","30","la Salut",357
+"2020","4","6","Gràcia","31","la Vila de Gràcia",342
+"2020","4","6","Gràcia","32","el Camp d'en Grassot i Gràcia Nova",306
+"2020","4","7","Horta-Guinardó","33","el Baix Guinardó",258
+"2020","4","7","Horta-Guinardó","34","Can Baró",273
+"2020","4","7","Horta-Guinardó","35","el Guinardó",207
+"2020","4","7","Horta-Guinardó","36","la Font d'en Fargues",345
+"2020","4","7","Horta-Guinardó","37","el Carmel",170
+"2020","4","7","Horta-Guinardó","38","la Teixonera",219
+"2020","4","7","Horta-Guinardó","39","Sant Genís dels Agudells",294
+"2020","4","7","Horta-Guinardó","40","Montbau",174
+"2020","4","7","Horta-Guinardó","41","la Vall d'Hebron",208
+"2020","4","7","Horta-Guinardó","43","Horta",293
+"2020","4","8","Nou Barris","44","Vilapicina i la Torre Llobeta",220
+"2020","4","8","Nou Barris","45","Porta",216
+"2020","4","8","Nou Barris","46","el Turó de la Peira",128
+"2020","4","8","Nou Barris","48","la Guineueta",223
+"2020","4","8","Nou Barris","49","Canyelles",211
+"2020","4","8","Nou Barris","50","les Roquetes",152
+"2020","4","8","Nou Barris","51","Verdun",96
+"2020","4","8","Nou Barris","52","la Prosperitat",143
+"2020","4","8","Nou Barris","53","la Trinitat Nova",69
+"2020","4","8","Nou Barris","55","Ciutat Meridiana",102
+"2020","4","9","Sant Andreu","57","la Trinitat Vella",130
+"2020","4","9","Sant Andreu","59","el Bon Pastor",163
+"2020","4","9","Sant Andreu","60","Sant Andreu",377
+"2020","4","9","Sant Andreu","61","la Sagrera",298
+"2020","4","9","Sant Andreu","62","el Congrés i els Indians",633
+"2020","4","9","Sant Andreu","63","Navas",374
+"2020","4","10","Sant Martí","64","el Camp de l'Arpa del Clot",248
+"2020","4","10","Sant Martí","65","el Clot",288
+"2020","4","10","Sant Martí","66","el Parc i la Llacuna del Poblenou",323
+"2020","4","10","Sant Martí","67","la Vila Olímpica del Poblenou",514
+"2020","4","10","Sant Martí","68","el Poblenou",361
+"2020","4","10","Sant Martí","69","Diagonal Mar i el Front Marítim del Poblenou",613
+"2020","4","10","Sant Martí","70","el Besòs i el Maresme",150
+"2020","4","10","Sant Martí","71","Provençals del Poblenou",217
+"2020","4","10","Sant Martí","72","Sant Martí de Provençals",188
+"2020","4","10","Sant Martí","73","la Verneda i la Pau",175
+"2020","4","1","Ciutat Vella","3","la Barceloneta",147
+"2020","4","1","Ciutat Vella","4","Sant Pere, Santa Caterina i la Ribera",435
+"2020","4","2","Eixample","5","el Fort Pienc",355
+"2020","4","2","Eixample","8","l'Antiga Esquerra de l'Eixample",816
+"2020","4","2","Eixample","9","la Nova Esquerra de l'Eixample",292
+"2020","4","3","Sants-Montjuïc","11","el Poble Sec",290
+"2020","4","3","Sants-Montjuïc","15","Hostafrancs",228
+"2020","4","3","Sants-Montjuïc","17","Sants - Badal",308
+"2020","4","3","Sants-Montjuïc","18","Sants",338
+"2020","4","4","Les Corts","19","les Corts",419
+"2020","4","5","Sarrià-Sant Gervasi","25","Sant Gervasi - la Bonanova",586
+"2020","4","5","Sarrià-Sant Gervasi","26","Sant Gervasi - Galvany",822
+"2020","4","6","Gràcia","28","Vallcarca i els Penitents",450
+"2020","4","6","Gràcia","29","el Coll",271
+"2020","4","6","Gràcia","31","la Vila de Gràcia",450
+"2020","4","7","Horta-Guinardó","37","el Carmel",183
+"2020","4","7","Horta-Guinardó","43","Horta",430
+"2020","4","9","Sant Andreu","60","Sant Andreu",418
+"2020","4","9","Sant Andreu","62","el Congrés i els Indians",937
+"2020","4","10","Sant Martí","66","el Parc i la Llacuna del Poblenou",482
+"2020","4","10","Sant Martí","68","el Poblenou",395
+"2020","4","10","Sant Martí","70","el Besòs i el Maresme",159
+"2020","4","10","Sant Martí","71","Provençals del Poblenou",221
+"2020","4","1","Ciutat Vella","1","el Raval",207
+"2020","4","1","Ciutat Vella","2","el Barri Gòtic",350
+"2020","4","1","Ciutat Vella","3","la Barceloneta",192
+"2020","4","1","Ciutat Vella","4","Sant Pere, Santa Caterina i la Ribera",247
+"2020","4","2","Eixample","5","el Fort Pienc",313
+"2020","4","2","Eixample","6","la Sagrada Família",270
+"2020","4","2","Eixample","7","la Dreta de l'Eixample",722
+"2020","4","2","Eixample","8","l'Antiga Esquerra de l'Eixample",422
+"2020","4","2","Eixample","9","la Nova Esquerra de l'Eixample",306
+"2020","4","2","Eixample","10","Sant Antoni",364
+"2020","4","3","Sants-Montjuïc","11","el Poble Sec",252
+"2020","4","3","Sants-Montjuïc","12","la Marina del Prat Vermell",169
+"2020","4","3","Sants-Montjuïc","13","la Marina de Port",192
+"2020","4","3","Sants-Montjuïc","14","la Font de la Guatlla",211
+"2020","4","3","Sants-Montjuïc","15","Hostafrancs",250
+"2020","4","3","Sants-Montjuïc","16","la Bordeta",392
+"2020","4","3","Sants-Montjuïc","17","Sants - Badal",267
+"2020","4","3","Sants-Montjuïc","18","Sants",295
+"2020","4","4","Les Corts","19","les Corts",413
+"2020","4","4","Les Corts","20","la Maternitat i Sant Ramon",366
+"2020","4","4","Les Corts","21","Pedralbes",1044
+"2020","4","5","Sarrià-Sant Gervasi","22","Vallvidrera, el Tibidabo i les Planes",864
+"2020","4","5","Sarrià-Sant Gervasi","23","Sarrià",703
+"2020","4","5","Sarrià-Sant Gervasi","24","les Tres Torres",776
+"2020","4","5","Sarrià-Sant Gervasi","25","Sant Gervasi - la Bonanova",727
+"2020","4","5","Sarrià-Sant Gervasi","26","Sant Gervasi - Galvany",837
+"2020","4","5","Sarrià-Sant Gervasi","27","el Putxet i el Farró",431
+"2020","4","6","Gràcia","28","Vallcarca i els Penitents",309
+"2020","4","6","Gràcia","29","el Coll",199
+"2020","4","6","Gràcia","30","la Salut",357
+"2020","4","6","Gràcia","31","la Vila de Gràcia",326
+"2020","4","6","Gràcia","32","el Camp d'en Grassot i Gràcia Nova",306
+"2020","4","7","Horta-Guinardó","33","el Baix Guinardó",258
+"2020","4","7","Horta-Guinardó","34","Can Baró",273
+"2020","4","7","Horta-Guinardó","35","el Guinardó",207
+"2020","4","7","Horta-Guinardó","36","la Font d'en Fargues",345
+"2020","4","7","Horta-Guinardó","37","el Carmel",159
+"2020","4","7","Horta-Guinardó","38","la Teixonera",219
+"2020","4","7","Horta-Guinardó","39","Sant Genís dels Agudells",294
+"2020","4","7","Horta-Guinardó","40","Montbau",174
+"2020","4","7","Horta-Guinardó","41","la Vall d'Hebron",208
+"2020","4","7","Horta-Guinardó","43","Horta",207
+"2020","4","8","Nou Barris","44","Vilapicina i la Torre Llobeta",218
+"2020","4","8","Nou Barris","45","Porta",216
+"2020","4","8","Nou Barris","46","el Turó de la Peira",128
+"2020","4","8","Nou Barris","48","la Guineueta",223
+"2020","4","8","Nou Barris","49","Canyelles",211
+"2020","4","8","Nou Barris","50","les Roquetes",152
+"2020","4","8","Nou Barris","51","Verdun",96
+"2020","4","8","Nou Barris","52","la Prosperitat",133
+"2020","4","8","Nou Barris","53","la Trinitat Nova",69
+"2020","4","8","Nou Barris","55","Ciutat Meridiana",102
+"2020","4","9","Sant Andreu","57","la Trinitat Vella",130
+"2020","4","9","Sant Andreu","59","el Bon Pastor",163
+"2020","4","9","Sant Andreu","60","Sant Andreu",220
+"2020","4","9","Sant Andreu","61","la Sagrera",298
+"2020","4","9","Sant Andreu","62","el Congrés i els Indians",329
+"2020","4","9","Sant Andreu","63","Navas",374
+"2020","4","10","Sant Martí","64","el Camp de l'Arpa del Clot",248
+"2020","4","10","Sant Martí","65","el Clot",288
+"2020","4","10","Sant Martí","66","el Parc i la Llacuna del Poblenou",288
+"2020","4","10","Sant Martí","67","la Vila Olímpica del Poblenou",546
+"2020","4","10","Sant Martí","68","el Poblenou",352
+"2020","4","10","Sant Martí","69","Diagonal Mar i el Front Marítim del Poblenou",613
+"2020","4","10","Sant Martí","70","el Besòs i el Maresme",148
+"2020","4","10","Sant Martí","71","Provençals del Poblenou",216
+"2020","4","10","Sant Martí","72","Sant Martí de Provençals",188
+"2020","4","10","Sant Martí","73","la Verneda i la Pau",175
+"2021","1","1","Ciutat Vella","1","el Raval",167
+"2021","1","1","Ciutat Vella","2","el Barri Gòtic",298
+"2021","1","1","Ciutat Vella","3","la Barceloneta",184
+"2021","1","1","Ciutat Vella","4","Sant Pere, Santa Caterina i la Ribera",254
+"2021","1","2","Eixample","5","el Fort Pienc",301
+"2021","1","2","Eixample","6","la Sagrada Família",306
+"2021","1","2","Eixample","7","la Dreta de l'Eixample",661
+"2021","1","2","Eixample","8","l'Antiga Esquerra de l'Eixample",429
+"2021","1","2","Eixample","9","la Nova Esquerra de l'Eixample",334
+"2021","1","2","Eixample","10","Sant Antoni",337
+"2021","1","3","Sants-Montjuïc","11","el Poble Sec",248
+"2021","1","3","Sants-Montjuïc","12","la Marina del Prat Vermell",274
+"2021","1","3","Sants-Montjuïc","13","la Marina de Port",213
+"2021","1","3","Sants-Montjuïc","14","la Font de la Guatlla",250
+"2021","1","3","Sants-Montjuïc","15","Hostafrancs",258
+"2021","1","3","Sants-Montjuïc","16","la Bordeta",209
+"2021","1","3","Sants-Montjuïc","17","Sants - Badal",239
+"2021","1","3","Sants-Montjuïc","18","Sants",276
+"2021","1","4","Les Corts","19","les Corts",425
+"2021","1","4","Les Corts","20","la Maternitat i Sant Ramon",343
+"2021","1","4","Les Corts","21","Pedralbes",984
+"2021","1","5","Sarrià-Sant Gervasi","22","Vallvidrera, el Tibidabo i les Planes",393
+"2021","1","5","Sarrià-Sant Gervasi","23","Sarrià",576
+"2021","1","5","Sarrià-Sant Gervasi","24","les Tres Torres",1005
+"2021","1","5","Sarrià-Sant Gervasi","25","Sant Gervasi - la Bonanova",863
+"2021","1","5","Sarrià-Sant Gervasi","26","Sant Gervasi - Galvany",923
+"2021","1","5","Sarrià-Sant Gervasi","27","el Putxet i el Farró",443
+"2021","1","6","Gràcia","28","Vallcarca i els Penitents",383
+"2021","1","6","Gràcia","29","el Coll",207
+"2021","1","6","Gràcia","30","la Salut",289
+"2021","1","6","Gràcia","31","la Vila de Gràcia",345
+"2021","1","6","Gràcia","32","el Camp d'en Grassot i Gràcia Nova",364
+"2021","1","7","Horta-Guinardó","33","el Baix Guinardó",217
+"2021","1","7","Horta-Guinardó","34","Can Baró",224
+"2021","1","7","Horta-Guinardó","35","el Guinardó",207
+"2021","1","7","Horta-Guinardó","36","la Font d'en Fargues",358
+"2021","1","7","Horta-Guinardó","37","el Carmel",136
+"2021","1","7","Horta-Guinardó","38","la Teixonera",170
+"2021","1","7","Horta-Guinardó","39","Sant Genís dels Agudells",156
+"2021","1","7","Horta-Guinardó","40","Montbau",170
+"2021","1","7","Horta-Guinardó","41","la Vall d'Hebron",236
+"2021","1","7","Horta-Guinardó","43","Horta",260
+"2021","1","8","Nou Barris","44","Vilapicina i la Torre Llobeta",227
+"2021","1","8","Nou Barris","45","Porta",142
+"2021","1","8","Nou Barris","46","el Turó de la Peira",141
+"2021","1","8","Nou Barris","47","Can Peguera",215
+"2021","1","8","Nou Barris","48","la Guineueta",195
+"2021","1","8","Nou Barris","49","Canyelles",209
+"2021","1","8","Nou Barris","50","les Roquetes",123
+"2021","1","8","Nou Barris","51","Verdun",156
+"2021","1","8","Nou Barris","52","la Prosperitat",145
+"2021","1","8","Nou Barris","53","la Trinitat Nova",105
+"2021","1","8","Nou Barris","54","Torre Baró",288
+"2021","1","8","Nou Barris","55","Ciutat Meridiana",50
+"2021","1","9","Sant Andreu","59","el Bon Pastor",144
+"2021","1","9","Sant Andreu","60","Sant Andreu",346
+"2021","1","9","Sant Andreu","61","la Sagrera",242
+"2021","1","9","Sant Andreu","62","el Congrés i els Indians",364
+"2021","1","9","Sant Andreu","63","Navas",271
+"2021","1","10","Sant Martí","64","el Camp de l'Arpa del Clot",217
+"2021","1","10","Sant Martí","65","el Clot",222
+"2021","1","10","Sant Martí","66","el Parc i la Llacuna del Poblenou",273
+"2021","1","10","Sant Martí","67","la Vila Olímpica del Poblenou",471
+"2021","1","10","Sant Martí","68","el Poblenou",323
+"2021","1","10","Sant Martí","69","Diagonal Mar i el Front Marítim del Poblenou",402
+"2021","1","10","Sant Martí","70","el Besòs i el Maresme",162
+"2021","1","10","Sant Martí","71","Provençals del Poblenou",244
+"2021","1","10","Sant Martí","72","Sant Martí de Provençals",221
+"2021","1","10","Sant Martí","73","la Verneda i la Pau",164
+"2021","1","1","Ciutat Vella","1","el Raval",400
+"2021","1","1","Ciutat Vella","4","Sant Pere, Santa Caterina i la Ribera",525
+"2021","1","2","Eixample","6","la Sagrada Família",139
+"2021","1","2","Eixample","7","la Dreta de l'Eixample",1462
+"2021","1","2","Eixample","8","l'Antiga Esquerra de l'Eixample",670
+"2021","1","2","Eixample","9","la Nova Esquerra de l'Eixample",254
+"2021","1","3","Sants-Montjuïc","11","el Poble Sec",228
+"2021","1","3","Sants-Montjuïc","17","Sants - Badal",288
+"2021","1","3","Sants-Montjuïc","18","Sants",314
+"2021","1","4","Les Corts","19","les Corts",516
+"2021","1","5","Sarrià-Sant Gervasi","23","Sarrià",486
+"2021","1","5","Sarrià-Sant Gervasi","25","Sant Gervasi - la Bonanova",795
+"2021","1","5","Sarrià-Sant Gervasi","26","Sant Gervasi - Galvany",652
+"2021","1","5","Sarrià-Sant Gervasi","27","el Putxet i el Farró",607
+"2021","1","6","Gràcia","28","Vallcarca i els Penitents",502
+"2021","1","6","Gràcia","31","la Vila de Gràcia",275
+"2021","1","7","Horta-Guinardó","35","el Guinardó",133
+"2021","1","7","Horta-Guinardó","37","el Carmel",126
+"2021","1","7","Horta-Guinardó","38","la Teixonera",219
+"2021","1","7","Horta-Guinardó","43","Horta",380
+"2021","1","8","Nou Barris","44","Vilapicina i la Torre Llobeta",316
+"2021","1","9","Sant Andreu","60","Sant Andreu",375
+"2021","1","10","Sant Martí","66","el Parc i la Llacuna del Poblenou",160
+"2021","1","10","Sant Martí","70","el Besòs i el Maresme",240
+"2021","1","10","Sant Martí","71","Provençals del Poblenou",250
+"2021","1","1","Ciutat Vella","1","el Raval",161
+"2021","1","1","Ciutat Vella","2","el Barri Gòtic",303
+"2021","1","1","Ciutat Vella","3","la Barceloneta",187
+"2021","1","1","Ciutat Vella","4","Sant Pere, Santa Caterina i la Ribera",225
+"2021","1","2","Eixample","5","el Fort Pienc",300
+"2021","1","2","Eixample","6","la Sagrada Família",319
+"2021","1","2","Eixample","7","la Dreta de l'Eixample",627
+"2021","1","2","Eixample","8","l'Antiga Esquerra de l'Eixample",420
+"2021","1","2","Eixample","9","la Nova Esquerra de l'Eixample",344
+"2021","1","2","Eixample","10","Sant Antoni",337
+"2021","1","3","Sants-Montjuïc","11","el Poble Sec",255
+"2021","1","3","Sants-Montjuïc","12","la Marina del Prat Vermell",274
+"2021","1","3","Sants-Montjuïc","13","la Marina de Port",213
+"2021","1","3","Sants-Montjuïc","14","la Font de la Guatlla",250
+"2021","1","3","Sants-Montjuïc","15","Hostafrancs",260
+"2021","1","3","Sants-Montjuïc","16","la Bordeta",188
+"2021","1","3","Sants-Montjuïc","17","Sants - Badal",205
+"2021","1","3","Sants-Montjuïc","18","Sants",265
+"2021","1","4","Les Corts","19","les Corts",411
+"2021","1","4","Les Corts","20","la Maternitat i Sant Ramon",343
+"2021","1","4","Les Corts","21","Pedralbes",984
+"2021","1","5","Sarrià-Sant Gervasi","22","Vallvidrera, el Tibidabo i les Planes",414
+"2021","1","5","Sarrià-Sant Gervasi","23","Sarrià",584
+"2021","1","5","Sarrià-Sant Gervasi","24","les Tres Torres",1005
+"2021","1","5","Sarrià-Sant Gervasi","25","Sant Gervasi - la Bonanova",877
+"2021","1","5","Sarrià-Sant Gervasi","26","Sant Gervasi - Galvany",967
+"2021","1","5","Sarrià-Sant Gervasi","27","el Putxet i el Farró",427
+"2021","1","6","Gràcia","28","Vallcarca i els Penitents",345
+"2021","1","6","Gràcia","29","el Coll",197
+"2021","1","6","Gràcia","30","la Salut",289
+"2021","1","6","Gràcia","31","la Vila de Gràcia",347
+"2021","1","6","Gràcia","32","el Camp d'en Grassot i Gràcia Nova",364
+"2021","1","7","Horta-Guinardó","33","el Baix Guinardó",217
+"2021","1","7","Horta-Guinardó","34","Can Baró",224
+"2021","1","7","Horta-Guinardó","35","el Guinardó",254
+"2021","1","7","Horta-Guinardó","36","la Font d'en Fargues",358
+"2021","1","7","Horta-Guinardó","37","el Carmel",139
+"2021","1","7","Horta-Guinardó","38","la Teixonera",127
+"2021","1","7","Horta-Guinardó","39","Sant Genís dels Agudells",161
+"2021","1","7","Horta-Guinardó","40","Montbau",178
+"2021","1","7","Horta-Guinardó","41","la Vall d'Hebron",315
+"2021","1","7","Horta-Guinardó","43","Horta",228
+"2021","1","8","Nou Barris","44","Vilapicina i la Torre Llobeta",214
+"2021","1","8","Nou Barris","45","Porta",142
+"2021","1","8","Nou Barris","46","el Turó de la Peira",141
+"2021","1","8","Nou Barris","47","Can Peguera",215
+"2021","1","8","Nou Barris","48","la Guineueta",195
+"2021","1","8","Nou Barris","49","Canyelles",209
+"2021","1","8","Nou Barris","50","les Roquetes",123
+"2021","1","8","Nou Barris","51","Verdun",121
+"2021","1","8","Nou Barris","52","la Prosperitat",145
+"2021","1","8","Nou Barris","53","la Trinitat Nova",105
+"2021","1","8","Nou Barris","54","Torre Baró",288
+"2021","1","8","Nou Barris","55","Ciutat Meridiana",50
+"2021","1","9","Sant Andreu","59","el Bon Pastor",144
+"2021","1","9","Sant Andreu","60","Sant Andreu",327
+"2021","1","9","Sant Andreu","61","la Sagrera",242
+"2021","1","9","Sant Andreu","62","el Congrés i els Indians",336
+"2021","1","9","Sant Andreu","63","Navas",271
+"2021","1","10","Sant Martí","64","el Camp de l'Arpa del Clot",217
+"2021","1","10","Sant Martí","65","el Clot",222
+"2021","1","10","Sant Martí","66","el Parc i la Llacuna del Poblenou",290
+"2021","1","10","Sant Martí","67","la Vila Olímpica del Poblenou",483
+"2021","1","10","Sant Martí","68","el Poblenou",321
+"2021","1","10","Sant Martí","69","Diagonal Mar i el Front Marítim del Poblenou",402
+"2021","1","10","Sant Martí","70","el Besòs i el Maresme",134
+"2021","1","10","Sant Martí","71","Provençals del Poblenou",243
+"2021","1","10","Sant Martí","72","Sant Martí de Provençals",221
+"2021","1","10","Sant Martí","73","la Verneda i la Pau",164
+"2021","2","1","Ciutat Vella","1","el Raval",250
+"2021","2","1","Ciutat Vella","2","el Barri Gòtic",410
+"2021","2","1","Ciutat Vella","3","la Barceloneta",174
+"2021","2","1","Ciutat Vella","4","Sant Pere, Santa Caterina i la Ribera",254
+"2021","2","2","Eixample","5","el Fort Pienc",356
+"2021","2","2","Eixample","6","la Sagrada Família",309
+"2021","2","2","Eixample","7","la Dreta de l'Eixample",549
+"2021","2","2","Eixample","8","l'Antiga Esquerra de l'Eixample",471
+"2021","2","2","Eixample","9","la Nova Esquerra de l'Eixample",368
+"2021","2","2","Eixample","10","Sant Antoni",342
+"2021","2","3","Sants-Montjuïc","11","el Poble Sec",358
+"2021","2","3","Sants-Montjuïc","12","la Marina del Prat Vermell",145
+"2021","2","3","Sants-Montjuïc","13","la Marina de Port",271
+"2021","2","3","Sants-Montjuïc","14","la Font de la Guatlla",269
+"2021","2","3","Sants-Montjuïc","15","Hostafrancs",307
+"2021","2","3","Sants-Montjuïc","16","la Bordeta",224
+"2021","2","3","Sants-Montjuïc","17","Sants - Badal",225
+"2021","2","3","Sants-Montjuïc","18","Sants",285
+"2021","2","4","Les Corts","19","les Corts",360
+"2021","2","4","Les Corts","20","la Maternitat i Sant Ramon",376
+"2021","2","4","Les Corts","21","Pedralbes",581
+"2021","2","5","Sarrià-Sant Gervasi","22","Vallvidrera, el Tibidabo i les Planes",336
+"2021","2","5","Sarrià-Sant Gervasi","23","Sarrià",638
+"2021","2","5","Sarrià-Sant Gervasi","24","les Tres Torres",1018
+"2021","2","5","Sarrià-Sant Gervasi","25","Sant Gervasi - la Bonanova",809
+"2021","2","5","Sarrià-Sant Gervasi","26","Sant Gervasi - Galvany",979
+"2021","2","5","Sarrià-Sant Gervasi","27","el Putxet i el Farró",443
+"2021","2","6","Gràcia","28","Vallcarca i els Penitents",344
+"2021","2","6","Gràcia","29","el Coll",263
+"2021","2","6","Gràcia","30","la Salut",374
+"2021","2","6","Gràcia","31","la Vila de Gràcia",341
+"2021","2","6","Gràcia","32","el Camp d'en Grassot i Gràcia Nova",300
+"2021","2","7","Horta-Guinardó","33","el Baix Guinardó",233
+"2021","2","7","Horta-Guinardó","34","Can Baró",263
+"2021","2","7","Horta-Guinardó","35","el Guinardó",228
+"2021","2","7","Horta-Guinardó","36","la Font d'en Fargues",305
+"2021","2","7","Horta-Guinardó","37","el Carmel",140
+"2021","2","7","Horta-Guinardó","38","la Teixonera",156
+"2021","2","7","Horta-Guinardó","39","Sant Genís dels Agudells",204
+"2021","2","7","Horta-Guinardó","40","Montbau",193
+"2021","2","7","Horta-Guinardó","41","la Vall d'Hebron",306
+"2021","2","7","Horta-Guinardó","43","Horta",205
+"2021","2","8","Nou Barris","44","Vilapicina i la Torre Llobeta",229
+"2021","2","8","Nou Barris","45","Porta",175
+"2021","2","8","Nou Barris","46","el Turó de la Peira",144
+"2021","2","8","Nou Barris","48","la Guineueta",176
+"2021","2","8","Nou Barris","49","Canyelles",183
+"2021","2","8","Nou Barris","50","les Roquetes",97
+"2021","2","8","Nou Barris","51","Verdun",163
+"2021","2","8","Nou Barris","52","la Prosperitat",138
+"2021","2","8","Nou Barris","53","la Trinitat Nova",110
+"2021","2","8","Nou Barris","55","Ciutat Meridiana",65
+"2021","2","9","Sant Andreu","57","la Trinitat Vella",108
+"2021","2","9","Sant Andreu","59","el Bon Pastor",162
+"2021","2","9","Sant Andreu","60","Sant Andreu",343
+"2021","2","9","Sant Andreu","61","la Sagrera",248
+"2021","2","9","Sant Andreu","62","el Congrés i els Indians",324
+"2021","2","9","Sant Andreu","63","Navas",266
+"2021","2","10","Sant Martí","64","el Camp de l'Arpa del Clot",226
+"2021","2","10","Sant Martí","65","el Clot",262
+"2021","2","10","Sant Martí","66","el Parc i la Llacuna del Poblenou",306
+"2021","2","10","Sant Martí","67","la Vila Olímpica del Poblenou",295
+"2021","2","10","Sant Martí","68","el Poblenou",372
+"2021","2","10","Sant Martí","69","Diagonal Mar i el Front Marítim del Poblenou",438
+"2021","2","10","Sant Martí","70","el Besòs i el Maresme",202
+"2021","2","10","Sant Martí","71","Provençals del Poblenou",237
+"2021","2","10","Sant Martí","72","Sant Martí de Provençals",183
+"2021","2","10","Sant Martí","73","la Verneda i la Pau",163
+"2021","2","1","Ciutat Vella","2","el Barri Gòtic",512
+"2021","2","1","Ciutat Vella","4","Sant Pere, Santa Caterina i la Ribera",539
+"2021","2","2","Eixample","6","la Sagrada Família",190
+"2021","2","2","Eixample","7","la Dreta de l'Eixample",743
+"2021","2","2","Eixample","9","la Nova Esquerra de l'Eixample",382
+"2021","2","3","Sants-Montjuïc","15","Hostafrancs",381
+"2021","2","3","Sants-Montjuïc","16","la Bordeta",251
+"2021","2","3","Sants-Montjuïc","17","Sants - Badal",305
+"2021","2","3","Sants-Montjuïc","18","Sants",268
+"2021","2","4","Les Corts","19","les Corts",407
+"2021","2","4","Les Corts","21","Pedralbes",345
+"2021","2","5","Sarrià-Sant Gervasi","22","Vallvidrera, el Tibidabo i les Planes",190
+"2021","2","5","Sarrià-Sant Gervasi","25","Sant Gervasi - la Bonanova",765
+"2021","2","5","Sarrià-Sant Gervasi","26","Sant Gervasi - Galvany",951
+"2021","2","5","Sarrià-Sant Gervasi","27","el Putxet i el Farró",622
+"2021","2","6","Gràcia","28","Vallcarca i els Penitents",434
+"2021","2","6","Gràcia","29","el Coll",277
+"2021","2","7","Horta-Guinardó","35","el Guinardó",252
+"2021","2","7","Horta-Guinardó","37","el Carmel",134
+"2021","2","7","Horta-Guinardó","38","la Teixonera",155
+"2021","2","7","Horta-Guinardó","43","Horta",253
+"2021","2","8","Nou Barris","44","Vilapicina i la Torre Llobeta",259
+"2021","2","9","Sant Andreu","60","Sant Andreu",365
+"2021","2","10","Sant Martí","67","la Vila Olímpica del Poblenou",460
+"2021","2","10","Sant Martí","68","el Poblenou",580
+"2021","2","10","Sant Martí","70","el Besòs i el Maresme",296
+"2021","2","10","Sant Martí","71","Provençals del Poblenou",255
+"2021","2","1","Ciutat Vella","1","el Raval",250
+"2021","2","1","Ciutat Vella","2","el Barri Gòtic",384
+"2021","2","1","Ciutat Vella","3","la Barceloneta",176
+"2021","2","1","Ciutat Vella","4","Sant Pere, Santa Caterina i la Ribera",246
+"2021","2","2","Eixample","5","el Fort Pienc",356
+"2021","2","2","Eixample","6","la Sagrada Família",315
+"2021","2","2","Eixample","7","la Dreta de l'Eixample",534
+"2021","2","2","Eixample","8","l'Antiga Esquerra de l'Eixample",474
+"2021","2","2","Eixample","9","la Nova Esquerra de l'Eixample",364
+"2021","2","2","Eixample","10","Sant Antoni",342
+"2021","2","3","Sants-Montjuïc","11","el Poble Sec",366
+"2021","2","3","Sants-Montjuïc","12","la Marina del Prat Vermell",145
+"2021","2","3","Sants-Montjuïc","13","la Marina de Port",271
+"2021","2","3","Sants-Montjuïc","14","la Font de la Guatlla",272
+"2021","2","3","Sants-Montjuïc","15","Hostafrancs",276
+"2021","2","3","Sants-Montjuïc","16","la Bordeta",204
+"2021","2","3","Sants-Montjuïc","17","Sants - Badal",205
+"2021","2","3","Sants-Montjuïc","18","Sants",287
+"2021","2","4","Les Corts","19","les Corts",357
+"2021","2","4","Les Corts","20","la Maternitat i Sant Ramon",375
+"2021","2","4","Les Corts","21","Pedralbes",613
+"2021","2","5","Sarrià-Sant Gervasi","22","Vallvidrera, el Tibidabo i les Planes",445
+"2021","2","5","Sarrià-Sant Gervasi","23","Sarrià",638
+"2021","2","5","Sarrià-Sant Gervasi","24","les Tres Torres",934
+"2021","2","5","Sarrià-Sant Gervasi","25","Sant Gervasi - la Bonanova",819
+"2021","2","5","Sarrià-Sant Gervasi","26","Sant Gervasi - Galvany",983
+"2021","2","5","Sarrià-Sant Gervasi","27","el Putxet i el Farró",427
+"2021","2","6","Gràcia","28","Vallcarca i els Penitents",321
+"2021","2","6","Gràcia","29","el Coll",234
+"2021","2","6","Gràcia","30","la Salut",374
+"2021","2","6","Gràcia","31","la Vila de Gràcia",341
+"2021","2","6","Gràcia","32","el Camp d'en Grassot i Gràcia Nova",300
+"2021","2","7","Horta-Guinardó","33","el Baix Guinardó",233
+"2021","2","7","Horta-Guinardó","34","Can Baró",263
+"2021","2","7","Horta-Guinardó","35","el Guinardó",219
+"2021","2","7","Horta-Guinardó","36","la Font d'en Fargues",305
+"2021","2","7","Horta-Guinardó","37","el Carmel",141
+"2021","2","7","Horta-Guinardó","38","la Teixonera",157
+"2021","2","7","Horta-Guinardó","39","Sant Genís dels Agudells",228
+"2021","2","7","Horta-Guinardó","40","Montbau",195
+"2021","2","7","Horta-Guinardó","41","la Vall d'Hebron",319
+"2021","2","7","Horta-Guinardó","43","Horta",189
+"2021","2","8","Nou Barris","44","Vilapicina i la Torre Llobeta",209
+"2021","2","8","Nou Barris","45","Porta",175
+"2021","2","8","Nou Barris","46","el Turó de la Peira",144
+"2021","2","8","Nou Barris","48","la Guineueta",176
+"2021","2","8","Nou Barris","49","Canyelles",183
+"2021","2","8","Nou Barris","50","les Roquetes",97
+"2021","2","8","Nou Barris","51","Verdun",151
+"2021","2","8","Nou Barris","52","la Prosperitat",138
+"2021","2","8","Nou Barris","53","la Trinitat Nova",110
+"2021","2","8","Nou Barris","55","Ciutat Meridiana",65
+"2021","2","9","Sant Andreu","57","la Trinitat Vella",108
+"2021","2","9","Sant Andreu","59","el Bon Pastor",162
+"2021","2","9","Sant Andreu","60","Sant Andreu",333
+"2021","2","9","Sant Andreu","61","la Sagrera",248
+"2021","2","9","Sant Andreu","62","el Congrés i els Indians",324
+"2021","2","9","Sant Andreu","63","Navas",266
+"2021","2","10","Sant Martí","64","el Camp de l'Arpa del Clot",226
+"2021","2","10","Sant Martí","65","el Clot",262
+"2021","2","10","Sant Martí","66","el Parc i la Llacuna del Poblenou",301
+"2021","2","10","Sant Martí","67","la Vila Olímpica del Poblenou",227
+"2021","2","10","Sant Martí","68","el Poblenou",312
+"2021","2","10","Sant Martí","69","Diagonal Mar i el Front Marítim del Poblenou",446
+"2021","2","10","Sant Martí","70","el Besòs i el Maresme",187
+"2021","2","10","Sant Martí","71","Provençals del Poblenou",224
+"2021","2","10","Sant Martí","72","Sant Martí de Provençals",183
+"2021","2","10","Sant Martí","73","la Verneda i la Pau",163
+"2021","3","1","Ciutat Vella","1","el Raval",171
+"2021","3","1","Ciutat Vella","2","el Barri Gòtic",356
+"2021","3","1","Ciutat Vella","3","la Barceloneta",236
+"2021","3","1","Ciutat Vella","4","Sant Pere, Santa Caterina i la Ribera",326
+"2021","3","2","Eixample","5","el Fort Pienc",328
+"2021","3","2","Eixample","6","la Sagrada Família",294
+"2021","3","2","Eixample","7","la Dreta de l'Eixample",773
+"2021","3","2","Eixample","8","l'Antiga Esquerra de l'Eixample",487
+"2021","3","2","Eixample","9","la Nova Esquerra de l'Eixample",360
+"2021","3","2","Eixample","10","Sant Antoni",521
+"2021","3","3","Sants-Montjuïc","11","el Poble Sec",307
+"2021","3","3","Sants-Montjuïc","12","la Marina del Prat Vermell",228
+"2021","3","3","Sants-Montjuïc","13","la Marina de Port",264
+"2021","3","3","Sants-Montjuïc","14","la Font de la Guatlla",273
+"2021","3","3","Sants-Montjuïc","15","Hostafrancs",262
+"2021","3","3","Sants-Montjuïc","16","la Bordeta",260
+"2021","3","3","Sants-Montjuïc","17","Sants - Badal",206
+"2021","3","3","Sants-Montjuïc","18","Sants",252
+"2021","3","4","Les Corts","19","les Corts",420
+"2021","3","4","Les Corts","20","la Maternitat i Sant Ramon",420
+"2021","3","4","Les Corts","21","Pedralbes",1055
+"2021","3","5","Sarrià-Sant Gervasi","22","Vallvidrera, el Tibidabo i les Planes",550
+"2021","3","5","Sarrià-Sant Gervasi","23","Sarrià",827
+"2021","3","5","Sarrià-Sant Gervasi","24","les Tres Torres",899
+"2021","3","5","Sarrià-Sant Gervasi","25","Sant Gervasi - la Bonanova",940
+"2021","3","5","Sarrià-Sant Gervasi","26","Sant Gervasi - Galvany",847
+"2021","3","5","Sarrià-Sant Gervasi","27","el Putxet i el Farró",408
+"2021","3","6","Gràcia","28","Vallcarca i els Penitents",375
+"2021","3","6","Gràcia","29","el Coll",237
+"2021","3","6","Gràcia","30","la Salut",349
+"2021","3","6","Gràcia","31","la Vila de Gràcia",337
+"2021","3","6","Gràcia","32","el Camp d'en Grassot i Gràcia Nova",334
+"2021","3","7","Horta-Guinardó","33","el Baix Guinardó",298
+"2021","3","7","Horta-Guinardó","34","Can Baró",318
+"2021","3","7","Horta-Guinardó","35","el Guinardó",266
+"2021","3","7","Horta-Guinardó","36","la Font d'en Fargues",297
+"2021","3","7","Horta-Guinardó","37","el Carmel",135
+"2021","3","7","Horta-Guinardó","38","la Teixonera",128
+"2021","3","7","Horta-Guinardó","39","Sant Genís dels Agudells",182
+"2021","3","7","Horta-Guinardó","40","Montbau",138
+"2021","3","7","Horta-Guinardó","41","la Vall d'Hebron",205
+"2021","3","7","Horta-Guinardó","43","Horta",203
+"2021","3","8","Nou Barris","44","Vilapicina i la Torre Llobeta",205
+"2021","3","8","Nou Barris","45","Porta",173
+"2021","3","8","Nou Barris","46","el Turó de la Peira",196
+"2021","3","8","Nou Barris","48","la Guineueta",216
+"2021","3","8","Nou Barris","49","Canyelles",131
+"2021","3","8","Nou Barris","50","les Roquetes",105
+"2021","3","8","Nou Barris","51","Verdun",165
+"2021","3","8","Nou Barris","52","la Prosperitat",197
+"2021","3","8","Nou Barris","53","la Trinitat Nova",86
+"2021","3","8","Nou Barris","55","Ciutat Meridiana",94
+"2021","3","9","Sant Andreu","57","la Trinitat Vella",126
+"2021","3","9","Sant Andreu","59","el Bon Pastor",145
+"2021","3","9","Sant Andreu","60","Sant Andreu",353
+"2021","3","9","Sant Andreu","61","la Sagrera",202
+"2021","3","9","Sant Andreu","62","el Congrés i els Indians",271
+"2021","3","9","Sant Andreu","63","Navas",256
+"2021","3","10","Sant Martí","64","el Camp de l'Arpa del Clot",260
+"2021","3","10","Sant Martí","65","el Clot",259
+"2021","3","10","Sant Martí","66","el Parc i la Llacuna del Poblenou",430
+"2021","3","10","Sant Martí","67","la Vila Olímpica del Poblenou",526
+"2021","3","10","Sant Martí","68","el Poblenou",367
+"2021","3","10","Sant Martí","69","Diagonal Mar i el Front Marítim del Poblenou",437
+"2021","3","10","Sant Martí","70","el Besòs i el Maresme",232
+"2021","3","10","Sant Martí","71","Provençals del Poblenou",242
+"2021","3","10","Sant Martí","72","Sant Martí de Provençals",175
+"2021","3","10","Sant Martí","73","la Verneda i la Pau",168
+"2021","3","1","Ciutat Vella","3","la Barceloneta",104
+"2021","3","1","Ciutat Vella","4","Sant Pere, Santa Caterina i la Ribera",542
+"2021","3","2","Eixample","6","la Sagrada Família",286
+"2021","3","2","Eixample","7","la Dreta de l'Eixample",1092
+"2021","3","2","Eixample","8","l'Antiga Esquerra de l'Eixample",573
+"2021","3","2","Eixample","9","la Nova Esquerra de l'Eixample",318
+"2021","3","3","Sants-Montjuïc","14","la Font de la Guatlla",350
+"2021","3","3","Sants-Montjuïc","15","Hostafrancs",278
+"2021","3","3","Sants-Montjuïc","18","Sants",251
+"2021","3","4","Les Corts","19","les Corts",530
+"2021","3","4","Les Corts","21","Pedralbes",544
+"2021","3","5","Sarrià-Sant Gervasi","23","Sarrià",710
+"2021","3","5","Sarrià-Sant Gervasi","25","Sant Gervasi - la Bonanova",933
+"2021","3","5","Sarrià-Sant Gervasi","26","Sant Gervasi - Galvany",603
+"2021","3","5","Sarrià-Sant Gervasi","27","el Putxet i el Farró",470
+"2021","3","6","Gràcia","28","Vallcarca i els Penitents",377
+"2021","3","6","Gràcia","29","el Coll",283
+"2021","3","7","Horta-Guinardó","35","el Guinardó",368
+"2021","3","7","Horta-Guinardó","37","el Carmel",109
+"2021","3","7","Horta-Guinardó","38","la Teixonera",69
+"2021","3","7","Horta-Guinardó","39","Sant Genís dels Agudells",154
+"2021","3","7","Horta-Guinardó","40","Montbau",155
+"2021","3","7","Horta-Guinardó","43","Horta",250
+"2021","3","8","Nou Barris","44","Vilapicina i la Torre Llobeta",255
+"2021","3","8","Nou Barris","51","Verdun",206
+"2021","3","9","Sant Andreu","60","Sant Andreu",366
+"2021","3","9","Sant Andreu","62","el Congrés i els Indians",292
+"2021","3","10","Sant Martí","66","el Parc i la Llacuna del Poblenou",486
+"2021","3","10","Sant Martí","67","la Vila Olímpica del Poblenou",418
+"2021","3","10","Sant Martí","68","el Poblenou",493
+"2021","3","10","Sant Martí","70","el Besòs i el Maresme",395
+"2021","3","10","Sant Martí","71","Provençals del Poblenou",219
+"2021","3","1","Ciutat Vella","1","el Raval",168
+"2021","3","1","Ciutat Vella","2","el Barri Gòtic",359
+"2021","3","1","Ciutat Vella","3","la Barceloneta",248
+"2021","3","1","Ciutat Vella","4","Sant Pere, Santa Caterina i la Ribera",315
+"2021","3","2","Eixample","5","el Fort Pienc",332
+"2021","3","2","Eixample","6","la Sagrada Família",295
+"2021","3","2","Eixample","7","la Dreta de l'Eixample",756
+"2021","3","2","Eixample","8","l'Antiga Esquerra de l'Eixample",471
+"2021","3","2","Eixample","9","la Nova Esquerra de l'Eixample",374
+"2021","3","2","Eixample","10","Sant Antoni",520
+"2021","3","3","Sants-Montjuïc","11","el Poble Sec",307
+"2021","3","3","Sants-Montjuïc","12","la Marina del Prat Vermell",228
+"2021","3","3","Sants-Montjuïc","13","la Marina de Port",264
+"2021","3","3","Sants-Montjuïc","14","la Font de la Guatlla",254
+"2021","3","3","Sants-Montjuïc","15","Hostafrancs",260
+"2021","3","3","Sants-Montjuïc","16","la Bordeta",241
+"2021","3","3","Sants-Montjuïc","17","Sants - Badal",206
+"2021","3","3","Sants-Montjuïc","18","Sants",252
+"2021","3","4","Les Corts","19","les Corts",398
+"2021","3","4","Les Corts","20","la Maternitat i Sant Ramon",420
+"2021","3","4","Les Corts","21","Pedralbes",1145
+"2021","3","5","Sarrià-Sant Gervasi","22","Vallvidrera, el Tibidabo i les Planes",615
+"2021","3","5","Sarrià-Sant Gervasi","23","Sarrià",833
+"2021","3","5","Sarrià-Sant Gervasi","24","les Tres Torres",929
+"2021","3","5","Sarrià-Sant Gervasi","25","Sant Gervasi - la Bonanova",941
+"2021","3","5","Sarrià-Sant Gervasi","26","Sant Gervasi - Galvany",878
+"2021","3","5","Sarrià-Sant Gervasi","27","el Putxet i el Farró",403
+"2021","3","6","Gràcia","28","Vallcarca i els Penitents",374
+"2021","3","6","Gràcia","29","el Coll",219
+"2021","3","6","Gràcia","30","la Salut",352
+"2021","3","6","Gràcia","31","la Vila de Gràcia",338
+"2021","3","6","Gràcia","32","el Camp d'en Grassot i Gràcia Nova",336
+"2021","3","7","Horta-Guinardó","33","el Baix Guinardó",298
+"2021","3","7","Horta-Guinardó","34","Can Baró",318
+"2021","3","7","Horta-Guinardó","35","el Guinardó",230
+"2021","3","7","Horta-Guinardó","36","la Font d'en Fargues",304
+"2021","3","7","Horta-Guinardó","37","el Carmel",151
+"2021","3","7","Horta-Guinardó","38","la Teixonera",211
+"2021","3","7","Horta-Guinardó","39","Sant Genís dels Agudells",202
+"2021","3","7","Horta-Guinardó","40","Montbau",133
+"2021","3","7","Horta-Guinardó","41","la Vall d'Hebron",205
+"2021","3","7","Horta-Guinardó","43","Horta",191
+"2021","3","8","Nou Barris","44","Vilapicina i la Torre Llobeta",202
+"2021","3","8","Nou Barris","45","Porta",174
+"2021","3","8","Nou Barris","46","el Turó de la Peira",196
+"2021","3","8","Nou Barris","48","la Guineueta",216
+"2021","3","8","Nou Barris","49","Canyelles",131
+"2021","3","8","Nou Barris","50","les Roquetes",105
+"2021","3","8","Nou Barris","51","Verdun",147
+"2021","3","8","Nou Barris","52","la Prosperitat",200
+"2021","3","8","Nou Barris","53","la Trinitat Nova",86
+"2021","3","8","Nou Barris","55","Ciutat Meridiana",94
+"2021","3","9","Sant Andreu","57","la Trinitat Vella",126
+"2021","3","9","Sant Andreu","59","el Bon Pastor",145
+"2021","3","9","Sant Andreu","60","Sant Andreu",353
+"2021","3","9","Sant Andreu","61","la Sagrera",202
+"2021","3","9","Sant Andreu","62","el Congrés i els Indians",268
+"2021","3","9","Sant Andreu","63","Navas",256
+"2021","3","10","Sant Martí","64","el Camp de l'Arpa del Clot",260
+"2021","3","10","Sant Martí","65","el Clot",259
+"2021","3","10","Sant Martí","66","el Parc i la Llacuna del Poblenou",338
+"2021","3","10","Sant Martí","67","la Vila Olímpica del Poblenou",607
+"2021","3","10","Sant Martí","68","el Poblenou",334
+"2021","3","10","Sant Martí","69","Diagonal Mar i el Front Marítim del Poblenou",449
+"2021","3","10","Sant Martí","70","el Besòs i el Maresme",118
+"2021","3","10","Sant Martí","71","Provençals del Poblenou",245
+"2021","3","10","Sant Martí","72","Sant Martí de Provençals",175
+"2021","3","10","Sant Martí","73","la Verneda i la Pau",171
+"2021","4","1","Ciutat Vella","1","el Raval",223
+"2021","4","1","Ciutat Vella","2","el Barri Gòtic",324
+"2021","4","1","Ciutat Vella","3","la Barceloneta",165
+"2021","4","1","Ciutat Vella","4","Sant Pere, Santa Caterina i la Ribera",326
+"2021","4","2","Eixample","5","el Fort Pienc",312
+"2021","4","2","Eixample","6","la Sagrada Família",308
+"2021","4","2","Eixample","7","la Dreta de l'Eixample",622
+"2021","4","2","Eixample","8","l'Antiga Esquerra de l'Eixample",452
+"2021","4","2","Eixample","9","la Nova Esquerra de l'Eixample",402
+"2021","4","2","Eixample","10","Sant Antoni",396
+"2021","4","3","Sants-Montjuïc","11","el Poble Sec",229
+"2021","4","3","Sants-Montjuïc","12","la Marina del Prat Vermell",103
+"2021","4","3","Sants-Montjuïc","13","la Marina de Port",239
+"2021","4","3","Sants-Montjuïc","14","la Font de la Guatlla",262
+"2021","4","3","Sants-Montjuïc","15","Hostafrancs",256
+"2021","4","3","Sants-Montjuïc","16","la Bordeta",232
+"2021","4","3","Sants-Montjuïc","17","Sants - Badal",226
+"2021","4","3","Sants-Montjuïc","18","Sants",279
+"2021","4","4","Les Corts","19","les Corts",470
+"2021","4","4","Les Corts","20","la Maternitat i Sant Ramon",394
+"2021","4","4","Les Corts","21","Pedralbes",646
+"2021","4","5","Sarrià-Sant Gervasi","22","Vallvidrera, el Tibidabo i les Planes",760
+"2021","4","5","Sarrià-Sant Gervasi","23","Sarrià",703
+"2021","4","5","Sarrià-Sant Gervasi","24","les Tres Torres",787
+"2021","4","5","Sarrià-Sant Gervasi","25","Sant Gervasi - la Bonanova",757
+"2021","4","5","Sarrià-Sant Gervasi","26","Sant Gervasi - Galvany",910
+"2021","4","5","Sarrià-Sant Gervasi","27","el Putxet i el Farró",529
+"2021","4","6","Gràcia","28","Vallcarca i els Penitents",306
+"2021","4","6","Gràcia","29","el Coll",251
+"2021","4","6","Gràcia","30","la Salut",304
+"2021","4","6","Gràcia","31","la Vila de Gràcia",340
+"2021","4","6","Gràcia","32","el Camp d'en Grassot i Gràcia Nova",397
+"2021","4","7","Horta-Guinardó","33","el Baix Guinardó",254
+"2021","4","7","Horta-Guinardó","34","Can Baró",248
+"2021","4","7","Horta-Guinardó","35","el Guinardó",253
+"2021","4","7","Horta-Guinardó","36","la Font d'en Fargues",238
+"2021","4","7","Horta-Guinardó","37","el Carmel",142
+"2021","4","7","Horta-Guinardó","38","la Teixonera",240
+"2021","4","7","Horta-Guinardó","39","Sant Genís dels Agudells",189
+"2021","4","7","Horta-Guinardó","40","Montbau",180
+"2021","4","7","Horta-Guinardó","41","la Vall d'Hebron",235
+"2021","4","7","Horta-Guinardó","43","Horta",208
+"2021","4","8","Nou Barris","44","Vilapicina i la Torre Llobeta",219
+"2021","4","8","Nou Barris","45","Porta",181
+"2021","4","8","Nou Barris","46","el Turó de la Peira",125
+"2021","4","8","Nou Barris","48","la Guineueta",232
+"2021","4","8","Nou Barris","49","Canyelles",227
+"2021","4","8","Nou Barris","50","les Roquetes",112
+"2021","4","8","Nou Barris","51","Verdun",140
+"2021","4","8","Nou Barris","52","la Prosperitat",144
+"2021","4","8","Nou Barris","53","la Trinitat Nova",104
+"2021","4","8","Nou Barris","55","Ciutat Meridiana",113
+"2021","4","9","Sant Andreu","57","la Trinitat Vella",84
+"2021","4","9","Sant Andreu","59","el Bon Pastor",139
+"2021","4","9","Sant Andreu","60","Sant Andreu",296
+"2021","4","9","Sant Andreu","61","la Sagrera",262
+"2021","4","9","Sant Andreu","62","el Congrés i els Indians",210
+"2021","4","9","Sant Andreu","63","Navas",238
+"2021","4","10","Sant Martí","64","el Camp de l'Arpa del Clot",246
+"2021","4","10","Sant Martí","65","el Clot",315
+"2021","4","10","Sant Martí","66","el Parc i la Llacuna del Poblenou",457
+"2021","4","10","Sant Martí","67","la Vila Olímpica del Poblenou",447
+"2021","4","10","Sant Martí","68","el Poblenou",328
+"2021","4","10","Sant Martí","69","Diagonal Mar i el Front Marítim del Poblenou",416
+"2021","4","10","Sant Martí","70","el Besòs i el Maresme",265
+"2021","4","10","Sant Martí","71","Provençals del Poblenou",228
+"2021","4","10","Sant Martí","72","Sant Martí de Provençals",187
+"2021","4","10","Sant Martí","73","la Verneda i la Pau",176
+"2021","4","1","Ciutat Vella","3","la Barceloneta",143
+"2021","4","2","Eixample","6","la Sagrada Família",201
+"2021","4","2","Eixample","7","la Dreta de l'Eixample",996
+"2021","4","2","Eixample","8","l'Antiga Esquerra de l'Eixample",378
+"2021","4","2","Eixample","9","la Nova Esquerra de l'Eixample",422
+"2021","4","2","Eixample","10","Sant Antoni",476
+"2021","4","3","Sants-Montjuïc","14","la Font de la Guatlla",306
+"2021","4","3","Sants-Montjuïc","15","Hostafrancs",292
+"2021","4","4","Les Corts","19","les Corts",557
+"2021","4","4","Les Corts","21","Pedralbes",395
+"2021","4","5","Sarrià-Sant Gervasi","25","Sant Gervasi - la Bonanova",349
+"2021","4","5","Sarrià-Sant Gervasi","26","Sant Gervasi - Galvany",670
+"2021","4","5","Sarrià-Sant Gervasi","27","el Putxet i el Farró",714
+"2021","4","6","Gràcia","28","Vallcarca i els Penitents",246
+"2021","4","6","Gràcia","29","el Coll",275
+"2021","4","7","Horta-Guinardó","35","el Guinardó",438
+"2021","4","7","Horta-Guinardó","37","el Carmel",165
+"2021","4","7","Horta-Guinardó","38","la Teixonera",190
+"2021","4","7","Horta-Guinardó","39","Sant Genís dels Agudells",205
+"2021","4","7","Horta-Guinardó","40","Montbau",159
+"2021","4","7","Horta-Guinardó","43","Horta",200
+"2021","4","8","Nou Barris","44","Vilapicina i la Torre Llobeta",321
+"2021","4","9","Sant Andreu","60","Sant Andreu",367
+"2021","4","9","Sant Andreu","63","Navas",223
+"2021","4","10","Sant Martí","66","el Parc i la Llacuna del Poblenou",555
+"2021","4","10","Sant Martí","68","el Poblenou",319
+"2021","4","10","Sant Martí","70","el Besòs i el Maresme",378
+"2021","4","10","Sant Martí","71","Provençals del Poblenou",185
+"2021","4","1","Ciutat Vella","1","el Raval",223
+"2021","4","1","Ciutat Vella","2","el Barri Gòtic",323
+"2021","4","1","Ciutat Vella","3","la Barceloneta",167
+"2021","4","1","Ciutat Vella","4","Sant Pere, Santa Caterina i la Ribera",304
+"2021","4","2","Eixample","5","el Fort Pienc",314
+"2021","4","2","Eixample","6","la Sagrada Família",316
+"2021","4","2","Eixample","7","la Dreta de l'Eixample",587
+"2021","4","2","Eixample","8","l'Antiga Esquerra de l'Eixample",453
+"2021","4","2","Eixample","9","la Nova Esquerra de l'Eixample",395
+"2021","4","2","Eixample","10","Sant Antoni",384
+"2021","4","3","Sants-Montjuïc","11","el Poble Sec",225
+"2021","4","3","Sants-Montjuïc","12","la Marina del Prat Vermell",103
+"2021","4","3","Sants-Montjuïc","13","la Marina de Port",239
+"2021","4","3","Sants-Montjuïc","14","la Font de la Guatlla",246
+"2021","4","3","Sants-Montjuïc","15","Hostafrancs",224
+"2021","4","3","Sants-Montjuïc","16","la Bordeta",232
+"2021","4","3","Sants-Montjuïc","17","Sants - Badal",239
+"2021","4","3","Sants-Montjuïc","18","Sants",278
+"2021","4","4","Les Corts","19","les Corts",441
+"2021","4","4","Les Corts","20","la Maternitat i Sant Ramon",401
+"2021","4","4","Les Corts","21","Pedralbes",844
+"2021","4","5","Sarrià-Sant Gervasi","22","Vallvidrera, el Tibidabo i les Planes",760
+"2021","4","5","Sarrià-Sant Gervasi","23","Sarrià",690
+"2021","4","5","Sarrià-Sant Gervasi","24","les Tres Torres",788
+"2021","4","5","Sarrià-Sant Gervasi","25","Sant Gervasi - la Bonanova",831
+"2021","4","5","Sarrià-Sant Gervasi","26","Sant Gervasi - Galvany",1000
+"2021","4","5","Sarrià-Sant Gervasi","27","el Putxet i el Farró",515
+"2021","4","6","Gràcia","28","Vallcarca i els Penitents",325
+"2021","4","6","Gràcia","29","el Coll",217
+"2021","4","6","Gràcia","30","la Salut",304
+"2021","4","6","Gràcia","31","la Vila de Gràcia",338
+"2021","4","6","Gràcia","32","el Camp d'en Grassot i Gràcia Nova",397
+"2021","4","7","Horta-Guinardó","33","el Baix Guinardó",229
+"2021","4","7","Horta-Guinardó","34","Can Baró",248
+"2021","4","7","Horta-Guinardó","35","el Guinardó",203
+"2021","4","7","Horta-Guinardó","36","la Font d'en Fargues",245
+"2021","4","7","Horta-Guinardó","37","el Carmel",134
+"2021","4","7","Horta-Guinardó","38","la Teixonera",268
+"2021","4","7","Horta-Guinardó","40","Montbau",189
+"2021","4","7","Horta-Guinardó","43","Horta",211
+"2021","4","8","Nou Barris","44","Vilapicina i la Torre Llobeta",207
+"2021","4","8","Nou Barris","45","Porta",181
+"2021","4","8","Nou Barris","46","el Turó de la Peira",125
+"2021","4","8","Nou Barris","48","la Guineueta",232
+"2021","4","8","Nou Barris","49","Canyelles",227
+"2021","4","8","Nou Barris","50","les Roquetes",112
+"2021","4","8","Nou Barris","51","Verdun",135
+"2021","4","8","Nou Barris","52","la Prosperitat",142
+"2021","4","8","Nou Barris","53","la Trinitat Nova",104
+"2021","4","8","Nou Barris","55","Ciutat Meridiana",113
+"2021","4","9","Sant Andreu","57","la Trinitat Vella",77
+"2021","4","9","Sant Andreu","59","el Bon Pastor",139
+"2021","4","9","Sant Andreu","60","Sant Andreu",285
+"2021","4","9","Sant Andreu","61","la Sagrera",262
+"2021","4","9","Sant Andreu","62","el Congrés i els Indians",197
+"2021","4","9","Sant Andreu","63","Navas",256
+"2021","4","10","Sant Martí","64","el Camp de l'Arpa del Clot",246
+"2021","4","10","Sant Martí","65","el Clot",315
+"2021","4","10","Sant Martí","66","el Parc i la Llacuna del Poblenou",296
+"2021","4","10","Sant Martí","67","la Vila Olímpica del Poblenou",447
+"2021","4","10","Sant Martí","68","el Poblenou",332
+"2021","4","10","Sant Martí","69","Diagonal Mar i el Front Marítim del Poblenou",431
+"2021","4","10","Sant Martí","70","el Besòs i el Maresme",172
+"2021","4","10","Sant Martí","71","Provençals del Poblenou",255
+"2021","4","10","Sant Martí","72","Sant Martí de Provençals",187
+"2021","4","10","Sant Martí","73","la Verneda i la Pau",176
