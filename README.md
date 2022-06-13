@@ -10,7 +10,7 @@ En este proyecto se incluye:
    * "compVent_Preu_m2.csv"       : Fichero de compras y valor de las viviendas en m2
    * "compVent_Preu_media_m2.csv" : Fichero de compras y valor medio de las viviendas en m2
    * "compVent_Preu_tot.csv"      : Fichero con el precio total de las viviendas vendidas   
-   * "hut_comunicacio_den.csv"    : Fichero donde se muestra la densidad de pisos turísticos por año
+   * "hut_comunicacio_den.csv"    : Fichero donde se muestra la ubicación de pisos turísticos de Barcelona
    * "loc_hab_any_con.csv"        : Fichero donde se muestra los años de construcción de las viviendas de Barcelona  
    * "loc_hab_sup.csv"            : Fichero donde se muestra la superficie de las viviendas de Barcelona
      
