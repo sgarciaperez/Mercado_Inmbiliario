@@ -1,7 +1,7 @@
 # Mercado Inmobiliario de Barcelona (2019 - 2021) 
 En este proyecto se ha generado una visualización con Tableau que permite la búsqueda guiada de pisos en la 
-ciudad de Barcelona. Su objetivo es ayudar a aquellas personas que tienen intención de iniciar una búsqueda de vivienda
-y desconocen el mercado inmobiliario.
+ciudad de Barcelona. Su objetivo es ayudar a aquellas personas que tienen intención de iniciar una búsqueda de una vivienda
+y que desconocen el mercado inmobiliario de la ciudad.
 
 En este proyecto se incluye: 
 1) El libro de trabajo de Tableau, fichero : "Mercado Inmobiliario Barcelona.twbx".
