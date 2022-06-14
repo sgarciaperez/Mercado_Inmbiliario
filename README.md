@@ -5,7 +5,7 @@ y que desconocen el mercado inmobiliario de la ciudad.
 
 En este proyecto se incluye: 
 1) El libro de trabajo de Tableau, fichero : "Mercado Inmobiliario Barcelona.twbx".
-2) Ficheros de datos realmente utilizados en la visualización del mercado inmobiliario de Barcelona en los años 2019, 2020 y 2021:   
+2) Ficheros de datos que realmente son utilizados en la visualización del mercado inmobiliario de Barcelona en los años 2019, 2020 y 2021:   
    * "compVent_Preu_media_m2.csv" : Fichero de compra/ventas con precio medio de las viviendas en €/m2
    * "compVent_Preu_tot.csv"      : Fichero de compra/venta con precio total de las viviendas en €
    * "hut_comunicacio_den.csv"    : Fichero donde se muestra la ubicación de pisos turísticos de Barcelona
